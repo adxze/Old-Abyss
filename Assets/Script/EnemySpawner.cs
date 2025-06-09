@@ -17,7 +17,6 @@ public class EnemySpawner : MonoBehaviour
     public float speedVariation = 0.3f;   // ±30% speed variation
     public float damageVariation = 0.15f; // ±15% damage variation
     
-    // Private variables
     private bool isSpawning = false;
     private int currentEnemyCount = 0;
     
@@ -48,14 +47,12 @@ public class EnemySpawner : MonoBehaviour
     {
         while (isSpawning)
         {
-            // Check if we can spawn more enemies
             if (currentEnemyCount < maxEnemiesAlive)
             {
                 SpawnEnemy();
                 currentEnemyCount++;
             }
             
-            // Wait for next spawn
             float waitTime = Random.Range(minSpawnTime, maxSpawnTime);
             yield return new WaitForSeconds(waitTime);
         }
@@ -63,7 +60,6 @@ public class EnemySpawner : MonoBehaviour
     
     private void SpawnEnemy()
     {
-        // Choose a random spawn point
         if (spawnPoints == null || spawnPoints.Length == 0)
         {
             Debug.LogError("No spawn points defined for enemy spawner!");
@@ -72,15 +68,12 @@ public class EnemySpawner : MonoBehaviour
         
         Transform spawnPoint = spawnPoints[Random.Range(0, spawnPoints.Length)];
         
-        // Instantiate the enemy
         GameObject enemyObj = Instantiate(enemyPrefab, spawnPoint.position, Quaternion.identity);
         
-        // Get enemy controller
         EnemyController enemy = enemyObj.GetComponent<EnemyController>();
         
         if (enemy != null && randomizeStats)
         {
-            // Randomize enemy stats
             float healthMod = 1 + Random.Range(-healthVariation, healthVariation);
             float speedMod = 1 + Random.Range(-speedVariation, speedVariation);
             float damageMod = 1 + Random.Range(-damageVariation, damageVariation);
@@ -91,23 +84,19 @@ public class EnemySpawner : MonoBehaviour
             enemy.attackDamage *= damageMod;
         }
         
-        // Subscribe to enemy death event
         StartCoroutine(CheckEnemyDestruction(enemyObj));
     }
     
     private IEnumerator CheckEnemyDestruction(GameObject enemy)
     {
-        // Wait until enemy is destroyed
         while (enemy != null)
         {
             yield return new WaitForSeconds(1f);
         }
         
-        // Enemy was destroyed, decrease counter
         currentEnemyCount--;
     }
     
-    // Helper method to visualize spawn points in editor
     private void OnDrawGizmosSelected()
     {
         if (spawnPoints != null)

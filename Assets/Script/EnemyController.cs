@@ -40,7 +40,6 @@ public class EnemyController : MonoBehaviour
     private float attackTimer = 0f;
     private bool isDead = false;
 
-    // 0 = E … 15 = ESE (same as player DirectionalMovement2D)
     public enum Direction16 { E, ENE, NE, NNE, N, NNW, NW, WNW, W, WSW, SW, SSW, S, SSE, SE, ESE }
     public Direction16 CurrentDirection => currentDir;
 
@@ -58,7 +57,6 @@ public class EnemyController : MonoBehaviour
 
     private void Start()
     {
-        // Auto-find player if enabled
         if (autoDetectPlayer && playerTarget == null)
         {
             GameObject player = GameObject.FindGameObjectWithTag("Player");
@@ -81,7 +79,6 @@ public class EnemyController : MonoBehaviour
     {
         if (isDead) return;
         
-        // Update attack cooldown
         if (attackTimer > 0)
         {
             attackTimer -= Time.deltaTime;
@@ -90,7 +87,6 @@ public class EnemyController : MonoBehaviour
 
         if (isAttacking) return;
         
-        // Check if player is in range
         if (playerTarget != null)
         {
             float distanceToPlayer = Vector2.Distance(transform.position, playerTarget.position);
@@ -150,7 +146,6 @@ public class EnemyController : MonoBehaviour
     {
         if (!isDead && !isAttacking)
         {
-            // Move the enemy
             rb.linearVelocity = moveDirection * moveSpeed;
         }
     }
@@ -173,7 +168,6 @@ public class EnemyController : MonoBehaviour
         }
     }
 
-    // Convert direction enum to animator parameter
     private void SetAnimatorFromDirection(Direction16 dir)
     {
         int sector = (int)dir;
@@ -183,16 +177,16 @@ public class EnemyController : MonoBehaviour
             octant = sector;
         }
         else if (sector >= 5 && sector <= 8) {
-            octant = 8 - sector; // Map to E through NE
+            octant = 8 - sector; 
         }
         else if (sector == 12) {
             octant = 8; 
         }
         else if (sector >= 9 && sector <= 11) {
-            octant = 12 - sector + 4; // Map to octants 7-4
+            octant = 12 - sector + 4; 
         }
         else {
-            octant = sector - 8; // Map to octants 5-7
+            octant = sector - 8; 
         }
 
         lastOctant = octant;
@@ -232,7 +226,6 @@ public class EnemyController : MonoBehaviour
         attackTimer = attackCooldown;
     }
 
-    // Called when enemy takes damage
     public void TakeDamage(float damage, Vector2 knockbackDirection = default(Vector2))
     {
         if (isDead) return;

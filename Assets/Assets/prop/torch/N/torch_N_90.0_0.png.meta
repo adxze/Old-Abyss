@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 78a235531a5224358b9a313566ed9672
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2638685943635392220
+    second: torch_N_90.0_0_0
+  - first:
+      213: -9183979561157550765
+    second: torch_N_90.0_0_1
+  - first:
+      213: -187759143889081019
+    second: torch_N_90.0_0_2
+  - first:
+      213: 9106306867236889206
+    second: torch_N_90.0_0_3
+  - first:
+      213: 76912324107290671
+    second: torch_N_90.0_0_4
+  - first:
+      213: -5315233024638747008
+    second: torch_N_90.0_0_5
+  - first:
+      213: -3200988344466653378
+    second: torch_N_90.0_0_6
+  - first:
+      213: 1676841150519719260
+    second: torch_N_90.0_0_7
+  - first:
+      213: 3739471423159874606
+    second: torch_N_90.0_0_8
+  - first:
+      213: -278733080245470776
+    second: torch_N_90.0_0_9
+  - first:
+      213: 7575566448394185157
+    second: torch_N_90.0_0_10
+  - first:
+      213: -8892508654963791886
+    second: torch_N_90.0_0_11
+  - first:
+      213: -3596046207042635282
+    second: torch_N_90.0_0_12
+  - first:
+      213: -6178428876695236416
+    second: torch_N_90.0_0_13
+  - first:
+      213: -1375380423559983098
+    second: torch_N_90.0_0_14
+  - first:
+      213: 3613267807788754527
+    second: torch_N_90.0_0_15
+  - first:
+      213: -6870761910786034969
+    second: torch_N_90.0_0_16
+  - first:
+      213: 6280370973813067671
+    second: torch_N_90.0_0_17
+  - first:
+      213: 3297100444835711312
+    second: torch_N_90.0_0_18
+  - first:
+      213: -5663544546257569330
+    second: torch_N_90.0_0_19
+  - first:
+      213: -6250045132665986095
+    second: torch_N_90.0_0_20
+  - first:
+      213: -4585165365462248738
+    second: torch_N_90.0_0_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: torch_N_90.0_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd63438a2ee7e9420800000000000000
+      internalID: 2638685943635392220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_N_90.0_0_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 131
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d91c87f33fb8080800000000000000
+      internalID: -9183979561157550765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_N_90.0_0_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 160
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54de82dad02f46df0800000000000000
+      internalID: -187759143889081019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_N_90.0_0_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 171
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672ea5539d9106e70800000000000000
+      internalID: 9106306867236889206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_N_90.0_0_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 156
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28c34de95f311100800000000000000
+      internalID: 76912324107290671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_N_90.0_0_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 125
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e7bf3b9bf7c36b0800000000000000
+      internalID: -5315233024638747008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_N_90.0_0_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 142
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f36ed6f0ec393d0800000000000000
+      internalID: -3200988344466653378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_N_90.0_0_7
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 131
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c553c716426554710800000000000000
+      internalID: 1676841150519719260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_N_90.0_0_8
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 158
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e243b21627545e330800000000000000
+      internalID: 3739471423159874606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_N_90.0_0_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 158
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c971d48dbdb12cf0800000000000000
+      internalID: -278733080245470776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_N_90.0_0_10
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 130
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c927e83c81d12960800000000000000
+      internalID: 7575566448394185157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_N_90.0_0_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 130
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7ebca2e76779480800000000000000
+      internalID: -8892508654963791886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_N_90.0_0_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 165
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee935510707481ec0800000000000000
+      internalID: -3596046207042635282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_N_90.0_0_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 146
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0909edbafc14aa0800000000000000
+      internalID: -6178428876695236416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_N_90.0_0_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 128
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6005ea6bacaa9ece0800000000000000
+      internalID: -1375380423559983098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_N_90.0_0_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 127
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f566a916de7e42230800000000000000
+      internalID: 3613267807788754527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_N_90.0_0_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 155
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2705be17626a0a0800000000000000
+      internalID: -6870761910786034969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_N_90.0_0_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 149
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f4dc7302c582750800000000000000
+      internalID: 6280370973813067671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_N_90.0_0_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 71
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0590733c267a1cd20800000000000000
+      internalID: 3297100444835711312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_N_90.0_0_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 143
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec977beed3c0761b0800000000000000
+      internalID: -5663544546257569330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_N_90.0_0_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 172
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3e845e0116349a0800000000000000
+      internalID: -6250045132665986095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torch_N_90.0_0_21
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 118
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2d233b4683e50c0800000000000000
+      internalID: -4585165365462248738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      torch_N_90.0_0_0: 2638685943635392220
+      torch_N_90.0_0_1: -9183979561157550765
+      torch_N_90.0_0_10: 7575566448394185157
+      torch_N_90.0_0_11: -8892508654963791886
+      torch_N_90.0_0_12: -3596046207042635282
+      torch_N_90.0_0_13: -6178428876695236416
+      torch_N_90.0_0_14: -1375380423559983098
+      torch_N_90.0_0_15: 3613267807788754527
+      torch_N_90.0_0_16: -6870761910786034969
+      torch_N_90.0_0_17: 6280370973813067671
+      torch_N_90.0_0_18: 3297100444835711312
+      torch_N_90.0_0_19: -5663544546257569330
+      torch_N_90.0_0_2: -187759143889081019
+      torch_N_90.0_0_20: -6250045132665986095
+      torch_N_90.0_0_21: -4585165365462248738
+      torch_N_90.0_0_3: 9106306867236889206
+      torch_N_90.0_0_4: 76912324107290671
+      torch_N_90.0_0_5: -5315233024638747008
+      torch_N_90.0_0_6: -3200988344466653378
+      torch_N_90.0_0_7: 1676841150519719260
+      torch_N_90.0_0_8: 3739471423159874606
+      torch_N_90.0_0_9: -278733080245470776
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

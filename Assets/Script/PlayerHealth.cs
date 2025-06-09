@@ -19,7 +19,6 @@ public class PlayerHealth : MonoBehaviour
     public Color hitFlashColor = Color.red;
     public GameObject hitParticlePrefab;
     
-    // References
     private SpriteRenderer spriteRenderer;
     private Animator animator;
     private DirectionalMovement2D movement;
@@ -47,34 +46,26 @@ public class PlayerHealth : MonoBehaviour
     
     public void TakeDamage(float damage)
     {
-        // Don't take damage if invincible or dead
         if (isInvincible || isDead) return;
         
-        // Apply damage
         currentHealth -= damage;
         
-        // Clamp health to 0
         currentHealth = Mathf.Max(0, currentHealth);
         
-        // Update UI
         UpdateHealthUI();
         
-        // Visual feedback
         if (spriteRenderer != null)
         {
             StartCoroutine(FlashSprite());
         }
         
-        // Spawn hit particles if available
         if (hitParticlePrefab != null)
         {
             Instantiate(hitParticlePrefab, transform.position, Quaternion.identity);
         }
         
-        // Apply knockback
         if (movement != null)
         {
-            // Find closest enemy to determine knockback direction
             EnemyController[] enemies = FindObjectsOfType<EnemyController>();
             Vector2 knockbackDir = Vector2.zero;
             float closestDistance = float.MaxValue;
@@ -101,33 +92,28 @@ public class PlayerHealth : MonoBehaviour
             }
         }
         
-        // Play hit animation
         if (animator != null)
         {
             animator.SetTrigger("Hit");
         }
         
-        // Check if player is dead
         if (currentHealth <= 0)
         {
             Die();
         }
         else
         {
-            // Start invincibility
             StartCoroutine(InvincibilityCoroutine());
         }
     }
     
     void UpdateHealthUI()
     {
-        // Update health bar fill
         if (healthBarFill != null)
         {
             healthBarFill.fillAmount = currentHealth / maxHealth;
         }
         
-        // Update health text
         if (healthText != null)
         {
             healthText.text = $"{currentHealth}/{maxHealth}";
@@ -138,34 +124,28 @@ public class PlayerHealth : MonoBehaviour
     {
         isDead = true;
         
-        // Play death animation
         if (animator != null)
         {
             animator.SetTrigger("Death");
         }
         
-        // Disable player control
         if (movement != null)
         {
             movement.enabled = false;
         }
         
-        // Disable collisions
         Collider2D col = GetComponent<Collider2D>();
         if (col != null)
         {
             col.enabled = false;
         }
         
-        // You could add game over logic here
-        // Restart level, show game over screen, etc.
     }
     
     IEnumerator InvincibilityCoroutine()
     {
         isInvincible = true;
         
-        // Flash effect during invincibility
         if (spriteRenderer != null)
         {
             float endTime = Time.time + invincibilityDuration;
@@ -194,7 +174,6 @@ public class PlayerHealth : MonoBehaviour
         spriteRenderer.color = originalColor;
     }
     
-    // Public method to heal the player
     public void Heal(float amount)
     {
         if (isDead) return;

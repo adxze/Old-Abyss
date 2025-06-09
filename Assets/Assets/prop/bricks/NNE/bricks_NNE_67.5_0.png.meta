@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 752497896494a452798d81733921ea01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 511570629390987834
+    second: bricks_NNE_67.5_0_0
+  - first:
+      213: -127012474565514890
+    second: bricks_NNE_67.5_0_1
+  - first:
+      213: 6162008552822915218
+    second: bricks_NNE_67.5_0_2
+  - first:
+      213: 4689796524252184011
+    second: bricks_NNE_67.5_0_3
+  - first:
+      213: 7022774962302216197
+    second: bricks_NNE_67.5_0_4
+  - first:
+      213: 8993783603116490228
+    second: bricks_NNE_67.5_0_5
+  - first:
+      213: 8817615311215556720
+    second: bricks_NNE_67.5_0_6
+  - first:
+      213: 3269274796942769664
+    second: bricks_NNE_67.5_0_7
+  - first:
+      213: 3833414058307215363
+    second: bricks_NNE_67.5_0_8
+  - first:
+      213: 7674890648422188116
+    second: bricks_NNE_67.5_0_9
+  - first:
+      213: -4816559261820226323
+    second: bricks_NNE_67.5_0_10
+  - first:
+      213: -7864856150005995798
+    second: bricks_NNE_67.5_0_11
+  - first:
+      213: 4165489635495923246
+    second: bricks_NNE_67.5_0_12
+  - first:
+      213: 4333112205707873143
+    second: bricks_NNE_67.5_0_13
+  - first:
+      213: 1644362578788006015
+    second: bricks_NNE_67.5_0_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bricks_NNE_67.5_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a327f5ae6c6791700800000000000000
+      internalID: 511570629390987834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bricks_NNE_67.5_0_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 121
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679aa7bc3d2cc3ef0800000000000000
+      internalID: -127012474565514890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bricks_NNE_67.5_0_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 49
+        width: 170
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290cded812ad38550800000000000000
+      internalID: 6162008552822915218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bricks_NNE_67.5_0_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdb9e85711851140800000000000000
+      internalID: 4689796524252184011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bricks_NNE_67.5_0_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 137
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508e785be98e57160800000000000000
+      internalID: 7022774962302216197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bricks_NNE_67.5_0_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 128
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdbd72398650dc70800000000000000
+      internalID: 8993783603116490228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bricks_NNE_67.5_0_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0787c0768667e5a70800000000000000
+      internalID: 8817615311215556720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bricks_NNE_67.5_0_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 173
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e39e04b1cce5d20800000000000000
+      internalID: 3269274796942769664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bricks_NNE_67.5_0_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 72
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300e36696c5033530800000000000000
+      internalID: 3833414058307215363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bricks_NNE_67.5_0_9
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 122
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4540c25a160b28a60800000000000000
+      internalID: 7674890648422188116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bricks_NNE_67.5_0_10
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 130
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4769fded4282db0800000000000000
+      internalID: -4816559261820226323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bricks_NNE_67.5_0_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 134
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6a859500b6ad290800000000000000
+      internalID: -7864856150005995798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bricks_NNE_67.5_0_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 114
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e4e47f0cacec930800000000000000
+      internalID: 4165489635495923246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bricks_NNE_67.5_0_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 139
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b8021e79e422c30800000000000000
+      internalID: 4333112205707873143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bricks_NNE_67.5_0_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 121
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78ba9e9d03f1d610800000000000000
+      internalID: 1644362578788006015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bricks_NNE_67.5_0_0: 511570629390987834
+      bricks_NNE_67.5_0_1: -127012474565514890
+      bricks_NNE_67.5_0_10: -4816559261820226323
+      bricks_NNE_67.5_0_11: -7864856150005995798
+      bricks_NNE_67.5_0_12: 4165489635495923246
+      bricks_NNE_67.5_0_13: 4333112205707873143
+      bricks_NNE_67.5_0_14: 1644362578788006015
+      bricks_NNE_67.5_0_2: 6162008552822915218
+      bricks_NNE_67.5_0_3: 4689796524252184011
+      bricks_NNE_67.5_0_4: 7022774962302216197
+      bricks_NNE_67.5_0_5: 8993783603116490228
+      bricks_NNE_67.5_0_6: 8817615311215556720
+      bricks_NNE_67.5_0_7: 3269274796942769664
+      bricks_NNE_67.5_0_8: 3833414058307215363
+      bricks_NNE_67.5_0_9: 7674890648422188116
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

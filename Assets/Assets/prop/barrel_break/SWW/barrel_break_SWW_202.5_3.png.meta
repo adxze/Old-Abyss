@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 8d1b070144138441da8c4d636453382f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 977075090853533682
+    second: barrel_break_SWW_202.5_3_0
+  - first:
+      213: 3145964357896354382
+    second: barrel_break_SWW_202.5_3_1
+  - first:
+      213: -3476642261702214772
+    second: barrel_break_SWW_202.5_3_2
+  - first:
+      213: -2713589895944057658
+    second: barrel_break_SWW_202.5_3_3
+  - first:
+      213: 8233063557233358159
+    second: barrel_break_SWW_202.5_3_4
+  - first:
+      213: -6490078923797039281
+    second: barrel_break_SWW_202.5_3_5
+  - first:
+      213: -3536397837437722909
+    second: barrel_break_SWW_202.5_3_6
+  - first:
+      213: -6731002923319947283
+    second: barrel_break_SWW_202.5_3_7
+  - first:
+      213: 5751704612226812947
+    second: barrel_break_SWW_202.5_3_8
+  - first:
+      213: -2360713556851550901
+    second: barrel_break_SWW_202.5_3_9
+  - first:
+      213: 3471675918761776790
+    second: barrel_break_SWW_202.5_3_10
+  - first:
+      213: 5508308520341873684
+    second: barrel_break_SWW_202.5_3_11
+  - first:
+      213: -7761056340720053788
+    second: barrel_break_SWW_202.5_3_12
+  - first:
+      213: -5001334674570522592
+    second: barrel_break_SWW_202.5_3_13
+  - first:
+      213: 7823774950930374408
+    second: barrel_break_SWW_202.5_3_14
+  - first:
+      213: -7181188746566823078
+    second: barrel_break_SWW_202.5_3_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: barrel_break_SWW_202.5_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 256
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7153d4e944f8d00800000000000000
+      internalID: 977075090853533682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_SWW_202.5_3_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 179
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ab37c5ae5b8ab20800000000000000
+      internalID: 3145964357896354382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_SWW_202.5_3_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 68
+        width: 140
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bf024784c70cfc0800000000000000
+      internalID: -3476642261702214772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_SWW_202.5_3_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 164
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc4a2aed54675ad0800000000000000
+      internalID: -2713589895944057658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_SWW_202.5_3_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 166
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45bb164fa7b14270800000000000000
+      internalID: 8233063557233358159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_SWW_202.5_3_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 163
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47f3deca9b9ee5a0800000000000000
+      internalID: -6490078923797039281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_SWW_202.5_3_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 168
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee901b47e03ceec0800000000000000
+      internalID: -3536397837437722909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_SWW_202.5_3_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 165
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def066de08ca692a0800000000000000
+      internalID: -6731002923319947283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_SWW_202.5_3_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c41c8fed822df40800000000000000
+      internalID: 5751704612226812947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_SWW_202.5_3_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 122
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b451a63178f0d3fd0800000000000000
+      internalID: -2360713556851550901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_SWW_202.5_3_10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 107
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696d219badedd2030800000000000000
+      internalID: 3471675918761776790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_SWW_202.5_3_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 84
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4142c3c3a61717c40800000000000000
+      internalID: 5508308520341873684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_SWW_202.5_3_12
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 88
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e19691c0603b4490800000000000000
+      internalID: -7761056340720053788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_SWW_202.5_3_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 90
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02051679c90b79ab0800000000000000
+      internalID: -5001334674570522592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_SWW_202.5_3_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 94
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fddc0add1a39c60800000000000000
+      internalID: 7823774950930374408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_SWW_202.5_3_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 93
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a531adfe1ea475c90800000000000000
+      internalID: -7181188746566823078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      barrel_break_SWW_202.5_3_0: 977075090853533682
+      barrel_break_SWW_202.5_3_1: 3145964357896354382
+      barrel_break_SWW_202.5_3_10: 3471675918761776790
+      barrel_break_SWW_202.5_3_11: 5508308520341873684
+      barrel_break_SWW_202.5_3_12: -7761056340720053788
+      barrel_break_SWW_202.5_3_13: -5001334674570522592
+      barrel_break_SWW_202.5_3_14: 7823774950930374408
+      barrel_break_SWW_202.5_3_15: -7181188746566823078
+      barrel_break_SWW_202.5_3_2: -3476642261702214772
+      barrel_break_SWW_202.5_3_3: -2713589895944057658
+      barrel_break_SWW_202.5_3_4: 8233063557233358159
+      barrel_break_SWW_202.5_3_5: -6490078923797039281
+      barrel_break_SWW_202.5_3_6: -3536397837437722909
+      barrel_break_SWW_202.5_3_7: -6731002923319947283
+      barrel_break_SWW_202.5_3_8: 5751704612226812947
+      barrel_break_SWW_202.5_3_9: -2360713556851550901
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

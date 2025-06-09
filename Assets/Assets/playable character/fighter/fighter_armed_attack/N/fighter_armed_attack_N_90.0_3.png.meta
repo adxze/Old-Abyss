@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 1dc6bf570fa6a4f1d93457d94a9cc90f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5858559524759104012
+    second: fighter_armed_attack_N_90.0_3_0
+  - first:
+      213: 3081006019295367126
+    second: fighter_armed_attack_N_90.0_3_1
+  - first:
+      213: -1053230268402043263
+    second: fighter_armed_attack_N_90.0_3_2
+  - first:
+      213: -5452751959096379106
+    second: fighter_armed_attack_N_90.0_3_3
+  - first:
+      213: 6921508313527519267
+    second: fighter_armed_attack_N_90.0_3_4
+  - first:
+      213: 2694342612389528892
+    second: fighter_armed_attack_N_90.0_3_5
+  - first:
+      213: -8962332266415218591
+    second: fighter_armed_attack_N_90.0_3_6
+  - first:
+      213: 3358478375320666911
+    second: fighter_armed_attack_N_90.0_3_7
+  - first:
+      213: 6572254409809088341
+    second: fighter_armed_attack_N_90.0_3_8
+  - first:
+      213: 9026118386503650744
+    second: fighter_armed_attack_N_90.0_3_9
+  - first:
+      213: -3772871307667647148
+    second: fighter_armed_attack_N_90.0_3_10
+  - first:
+      213: -1431665390180904154
+    second: fighter_armed_attack_N_90.0_3_11
+  - first:
+      213: -7150376539930828437
+    second: fighter_armed_attack_N_90.0_3_12
+  - first:
+      213: -6909583072638098264
+    second: fighter_armed_attack_N_90.0_3_13
+  - first:
+      213: -5032791582225563450
+    second: fighter_armed_attack_N_90.0_3_14
+  - first:
+      213: -8584593955243732665
+    second: fighter_armed_attack_N_90.0_3_15
+  - first:
+      213: -6239154018569448862
+    second: fighter_armed_attack_N_90.0_3_16
+  - first:
+      213: 2388779459050926697
+    second: fighter_armed_attack_N_90.0_3_17
+  - first:
+      213: -3005012284964626150
+    second: fighter_armed_attack_N_90.0_3_18
+  - first:
+      213: -6387554029333922913
+    second: fighter_armed_attack_N_90.0_3_19
+  - first:
+      213: -708508385061338121
+    second: fighter_armed_attack_N_90.0_3_20
+  - first:
+      213: -604118411848937181
+    second: fighter_armed_attack_N_90.0_3_21
+  - first:
+      213: 503095939113294971
+    second: fighter_armed_attack_N_90.0_3_22
+  - first:
+      213: -6227359102087773878
+    second: fighter_armed_attack_N_90.0_3_23
+  - first:
+      213: 8709804449645135557
+    second: fighter_armed_attack_N_90.0_3_24
+  - first:
+      213: 5847297675082002662
+    second: fighter_armed_attack_N_90.0_3_25
+  - first:
+      213: -7558521374830908011
+    second: fighter_armed_attack_N_90.0_3_26
+  - first:
+      213: -5232454065202415531
+    second: fighter_armed_attack_N_90.0_3_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f59047f62732bea0800000000000000
+      internalID: -5858559524759104012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 170
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfc0f296aee1ca20800000000000000
+      internalID: 3081006019295367126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 18
+        width: 192
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186f431b6ac2261f0800000000000000
+      internalID: -1053230268402043263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 149
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19bebdabfee354b0800000000000000
+      internalID: -5452751959096379106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 113
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32888b1b3232e0060800000000000000
+      internalID: 6921508313527519267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 161
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c350daaa45a346520800000000000000
+      internalID: 2694342612389528892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 129
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160ac45c9466f9380800000000000000
+      internalID: -8962332266415218591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 136
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13c1d2d946bb9e20800000000000000
+      internalID: 3358478375320666911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 79
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f4a2e7096553b50800000000000000
+      internalID: 6572254409809088341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 195
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd0c20a9d6334d70800000000000000
+      internalID: 9026118386503650744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 77
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455d433098114abc0800000000000000
+      internalID: -3772871307667647148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_11
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 80
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623db05b9e3b12ce0800000000000000
+      internalID: -1431665390180904154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 195
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61e227db62c4cc90800000000000000
+      internalID: -7150376539930828437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 117
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4aa51ddca3c10a0800000000000000
+      internalID: -6909583072638098264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 166
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c08ed888bee72ab0800000000000000
+      internalID: -5032791582225563450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 137
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7415bb4e7456dd880800000000000000
+      internalID: -8584593955243732665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 160
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26297300a721a69a0800000000000000
+      internalID: -6239154018569448862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 120
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962fa7ff246a62120800000000000000
+      internalID: 2388779459050926697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 102
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11aff08f3d0c46d0800000000000000
+      internalID: -3005012284964626150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bbfe9f379da57a0800000000000000
+      internalID: -6387554029333922913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_20
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 151
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3880ca06fda26f0800000000000000
+      internalID: -708508385061338121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_21
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 178
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3219873518dbd97f0800000000000000
+      internalID: -604118411848937181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_22
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 142
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c1ac2571b5bf600800000000000000
+      internalID: 503095939113294971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_23
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 138
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41434ff3e9f399a0800000000000000
+      internalID: -6227359102087773878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 111
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6073c10017fd870800000000000000
+      internalID: 8709804449645135557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 120
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0fa335146c52150800000000000000
+      internalID: 5847297675082002662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_26
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 100
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59da10a3bdcba1790800000000000000
+      internalID: -7558521374830908011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_attack_N_90.0_3_27
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 158
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558bf0c10c69267b0800000000000000
+      internalID: -5232454065202415531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fighter_armed_attack_N_90.0_3_0: -5858559524759104012
+      fighter_armed_attack_N_90.0_3_1: 3081006019295367126
+      fighter_armed_attack_N_90.0_3_10: -3772871307667647148
+      fighter_armed_attack_N_90.0_3_11: -1431665390180904154
+      fighter_armed_attack_N_90.0_3_12: -7150376539930828437
+      fighter_armed_attack_N_90.0_3_13: -6909583072638098264
+      fighter_armed_attack_N_90.0_3_14: -5032791582225563450
+      fighter_armed_attack_N_90.0_3_15: -8584593955243732665
+      fighter_armed_attack_N_90.0_3_16: -6239154018569448862
+      fighter_armed_attack_N_90.0_3_17: 2388779459050926697
+      fighter_armed_attack_N_90.0_3_18: -3005012284964626150
+      fighter_armed_attack_N_90.0_3_19: -6387554029333922913
+      fighter_armed_attack_N_90.0_3_2: -1053230268402043263
+      fighter_armed_attack_N_90.0_3_20: -708508385061338121
+      fighter_armed_attack_N_90.0_3_21: -604118411848937181
+      fighter_armed_attack_N_90.0_3_22: 503095939113294971
+      fighter_armed_attack_N_90.0_3_23: -6227359102087773878
+      fighter_armed_attack_N_90.0_3_24: 8709804449645135557
+      fighter_armed_attack_N_90.0_3_25: 5847297675082002662
+      fighter_armed_attack_N_90.0_3_26: -7558521374830908011
+      fighter_armed_attack_N_90.0_3_27: -5232454065202415531
+      fighter_armed_attack_N_90.0_3_3: -5452751959096379106
+      fighter_armed_attack_N_90.0_3_4: 6921508313527519267
+      fighter_armed_attack_N_90.0_3_5: 2694342612389528892
+      fighter_armed_attack_N_90.0_3_6: -8962332266415218591
+      fighter_armed_attack_N_90.0_3_7: 3358478375320666911
+      fighter_armed_attack_N_90.0_3_8: 6572254409809088341
+      fighter_armed_attack_N_90.0_3_9: 9026118386503650744
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

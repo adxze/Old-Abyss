@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 6e924afe31f114c39a8ab42a4b061ead
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1293972380741567937
+    second: warrior_special_death_E_0.0_7_0
+  - first:
+      213: 3127662532499376458
+    second: warrior_special_death_E_0.0_7_1
+  - first:
+      213: -1303485090389278853
+    second: warrior_special_death_E_0.0_7_2
+  - first:
+      213: -705065028101993311
+    second: warrior_special_death_E_0.0_7_3
+  - first:
+      213: 4295080431098181002
+    second: warrior_special_death_E_0.0_7_4
+  - first:
+      213: -8060607566896527636
+    second: warrior_special_death_E_0.0_7_5
+  - first:
+      213: 7483988173166560134
+    second: warrior_special_death_E_0.0_7_6
+  - first:
+      213: -9037133498710574110
+    second: warrior_special_death_E_0.0_7_7
+  - first:
+      213: 290281353638353011
+    second: warrior_special_death_E_0.0_7_8
+  - first:
+      213: 4432003493653145429
+    second: warrior_special_death_E_0.0_7_9
+  - first:
+      213: -857857408028906250
+    second: warrior_special_death_E_0.0_7_10
+  - first:
+      213: 682605385860425596
+    second: warrior_special_death_E_0.0_7_11
+  - first:
+      213: -596364995382209926
+    second: warrior_special_death_E_0.0_7_12
+  - first:
+      213: -4968469992811631706
+    second: warrior_special_death_E_0.0_7_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: warrior_special_death_E_0.0_7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 256
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c58447460d15f110800000000000000
+      internalID: 1293972380741567937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_special_death_E_0.0_7_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 164
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a498ce29080b76b20800000000000000
+      internalID: 3127662532499376458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_special_death_E_0.0_7_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 161
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f3459673719ede0800000000000000
+      internalID: -1303485090389278853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_special_death_E_0.0_7_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 169
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac0e60b71b1736f0800000000000000
+      internalID: -705065028101993311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_special_death_E_0.0_7_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 160
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85b65155e03b9b30800000000000000
+      internalID: 4295080431098181002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_special_death_E_0.0_7_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 165
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce68e45ff18f22090800000000000000
+      internalID: -8060607566896527636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_special_death_E_0.0_7_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 161
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68341d477977cd760800000000000000
+      internalID: 7483988173166560134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_special_death_E_0.0_7_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 145
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebb295b6f6a59280800000000000000
+      internalID: -9037133498710574110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_special_death_E_0.0_7_8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 134
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37898886a59470400800000000000000
+      internalID: 290281353638353011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_special_death_E_0.0_7_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 120
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5576c7a12b3a18d30800000000000000
+      internalID: 4432003493653145429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_special_death_E_0.0_7_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 123
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcef768b374814f0800000000000000
+      internalID: -857857408028906250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_special_death_E_0.0_7_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 125
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77aaf95bf9197900800000000000000
+      internalID: 682605385860425596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_special_death_E_0.0_7_12
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 112
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7214c5423949b7f0800000000000000
+      internalID: -596364995382209926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior_special_death_E_0.0_7_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 94
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab66499dd27c0bb0800000000000000
+      internalID: -4968469992811631706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      warrior_special_death_E_0.0_7_0: 1293972380741567937
+      warrior_special_death_E_0.0_7_1: 3127662532499376458
+      warrior_special_death_E_0.0_7_10: -857857408028906250
+      warrior_special_death_E_0.0_7_11: 682605385860425596
+      warrior_special_death_E_0.0_7_12: -596364995382209926
+      warrior_special_death_E_0.0_7_13: -4968469992811631706
+      warrior_special_death_E_0.0_7_2: -1303485090389278853
+      warrior_special_death_E_0.0_7_3: -705065028101993311
+      warrior_special_death_E_0.0_7_4: 4295080431098181002
+      warrior_special_death_E_0.0_7_5: -8060607566896527636
+      warrior_special_death_E_0.0_7_6: 7483988173166560134
+      warrior_special_death_E_0.0_7_7: -9037133498710574110
+      warrior_special_death_E_0.0_7_8: 290281353638353011
+      warrior_special_death_E_0.0_7_9: 4432003493653145429
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

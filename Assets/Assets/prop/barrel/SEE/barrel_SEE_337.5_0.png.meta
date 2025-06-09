@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: f213fff618a2a4bef95060c528f9e41d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3323229877168197772
+    second: barrel_SEE_337.5_0_0
+  - first:
+      213: -8346034778613849498
+    second: barrel_SEE_337.5_0_1
+  - first:
+      213: 3526482996898021631
+    second: barrel_SEE_337.5_0_2
+  - first:
+      213: 7276339620428254282
+    second: barrel_SEE_337.5_0_3
+  - first:
+      213: -2301665439291858802
+    second: barrel_SEE_337.5_0_4
+  - first:
+      213: 6368532494721234390
+    second: barrel_SEE_337.5_0_5
+  - first:
+      213: -2760784087853234378
+    second: barrel_SEE_337.5_0_6
+  - first:
+      213: -1706995021797806198
+    second: barrel_SEE_337.5_0_7
+  - first:
+      213: -5944636673749999462
+    second: barrel_SEE_337.5_0_8
+  - first:
+      213: 7715419957626781669
+    second: barrel_SEE_337.5_0_9
+  - first:
+      213: -2043754665163153577
+    second: barrel_SEE_337.5_0_10
+  - first:
+      213: -8904116848347263294
+    second: barrel_SEE_337.5_0_11
+  - first:
+      213: -2274808496811626497
+    second: barrel_SEE_337.5_0_12
+  - first:
+      213: -6016133125947576994
+    second: barrel_SEE_337.5_0_13
+  - first:
+      213: -1912616803775137127
+    second: barrel_SEE_337.5_0_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: barrel_SEE_337.5_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80539f47fb7e1e20800000000000000
+      internalID: 3323229877168197772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SEE_337.5_0_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6626aa9869dec2c80800000000000000
+      internalID: -8346034778613849498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SEE_337.5_0_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 156
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0cf800a9590f030800000000000000
+      internalID: 3526482996898021631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SEE_337.5_0_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 117
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c0ab44550caf460800000000000000
+      internalID: 7276339620428254282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SEE_337.5_0_4
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 57
+        width: 149
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80273b4a77de00e0800000000000000
+      internalID: -2301665439291858802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SEE_337.5_0_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 139
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d53460ef82916850800000000000000
+      internalID: 6368532494721234390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SEE_337.5_0_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63705f5df79bfa9d0800000000000000
+      internalID: -2760784087853234378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SEE_337.5_0_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 118
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fa16c52198f48e0800000000000000
+      internalID: -1706995021797806198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SEE_337.5_0_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 140
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a902f56f078608da0800000000000000
+      internalID: -5944636673749999462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SEE_337.5_0_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efbd4bc29da21b60800000000000000
+      internalID: 7715419957626781669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SEE_337.5_0_10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 179
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f17e6d5ff13a3e0800000000000000
+      internalID: -2043754665163153577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SEE_337.5_0_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 99
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cec0b707e83e6480800000000000000
+      internalID: -8904116848347263294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SEE_337.5_0_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 137
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffa08f79b14e60e0800000000000000
+      internalID: -2274808496811626497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SEE_337.5_0_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 129
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d2f6afbc6628ca0800000000000000
+      internalID: -6016133125947576994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SEE_337.5_0_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 145
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a3a8386250575e0800000000000000
+      internalID: -1912616803775137127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      barrel_SEE_337.5_0_0: 3323229877168197772
+      barrel_SEE_337.5_0_1: -8346034778613849498
+      barrel_SEE_337.5_0_10: -2043754665163153577
+      barrel_SEE_337.5_0_11: -8904116848347263294
+      barrel_SEE_337.5_0_12: -2274808496811626497
+      barrel_SEE_337.5_0_13: -6016133125947576994
+      barrel_SEE_337.5_0_14: -1912616803775137127
+      barrel_SEE_337.5_0_2: 3526482996898021631
+      barrel_SEE_337.5_0_3: 7276339620428254282
+      barrel_SEE_337.5_0_4: -2301665439291858802
+      barrel_SEE_337.5_0_5: 6368532494721234390
+      barrel_SEE_337.5_0_6: -2760784087853234378
+      barrel_SEE_337.5_0_7: -1706995021797806198
+      barrel_SEE_337.5_0_8: -5944636673749999462
+      barrel_SEE_337.5_0_9: 7715419957626781669
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

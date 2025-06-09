@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 1bceefec8bcb647a9b0cac20ea4dcf4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5408731305099407684
+    second: demonlord_default_walk_NEE_22.5_0_0
+  - first:
+      213: -1134021682433414442
+    second: demonlord_default_walk_NEE_22.5_0_1
+  - first:
+      213: 4244474315305160008
+    second: demonlord_default_walk_NEE_22.5_0_2
+  - first:
+      213: -6718103270174434697
+    second: demonlord_default_walk_NEE_22.5_0_3
+  - first:
+      213: -214755457910760169
+    second: demonlord_default_walk_NEE_22.5_0_4
+  - first:
+      213: -7028358875495063433
+    second: demonlord_default_walk_NEE_22.5_0_5
+  - first:
+      213: 6136847052365462750
+    second: demonlord_default_walk_NEE_22.5_0_6
+  - first:
+      213: 2030250057228377994
+    second: demonlord_default_walk_NEE_22.5_0_7
+  - first:
+      213: -8707034602103101634
+    second: demonlord_default_walk_NEE_22.5_0_8
+  - first:
+      213: -6143330811786129386
+    second: demonlord_default_walk_NEE_22.5_0_9
+  - first:
+      213: 4308299656792312783
+    second: demonlord_default_walk_NEE_22.5_0_10
+  - first:
+      213: 6851792285269538990
+    second: demonlord_default_walk_NEE_22.5_0_11
+  - first:
+      213: -1829825393087306422
+    second: demonlord_default_walk_NEE_22.5_0_12
+  - first:
+      213: -9021700190341110189
+    second: demonlord_default_walk_NEE_22.5_0_13
+  - first:
+      213: 4408892216547126422
+    second: demonlord_default_walk_NEE_22.5_0_14
+  - first:
+      213: 5875452348047314957
+    second: demonlord_default_walk_NEE_22.5_0_15
+  - first:
+      213: 5324103489667102305
+    second: demonlord_default_walk_NEE_22.5_0_16
+  - first:
+      213: 5485400976936216657
+    second: demonlord_default_walk_NEE_22.5_0_17
+  - first:
+      213: -8981735968174503413
+    second: demonlord_default_walk_NEE_22.5_0_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: demonlord_default_walk_NEE_22.5_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbec302e88350f4b0800000000000000
+      internalID: -5408731305099407684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_walk_NEE_22.5_0_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 244
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da27f2c9452340f0800000000000000
+      internalID: -1134021682433414442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_walk_NEE_22.5_0_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 248
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d880ec6e667ea30800000000000000
+      internalID: 4244474315305160008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_walk_NEE_22.5_0_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 246
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77adcd87ba084c2a0800000000000000
+      internalID: -6718103270174434697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_walk_NEE_22.5_0_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 248
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d17a18c09050df0800000000000000
+      internalID: -214755457910760169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_walk_NEE_22.5_0_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 248
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770272037d0467e90800000000000000
+      internalID: -7028358875495063433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_walk_NEE_22.5_0_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc752531e57a2550800000000000000
+      internalID: 6136847052365462750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_walk_NEE_22.5_0_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 8
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f505a9ba5ec2c10800000000000000
+      internalID: 2030250057228377994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_walk_NEE_22.5_0_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e372c9649266a2780800000000000000
+      internalID: -8707034602103101634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_walk_NEE_22.5_0_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61096c9ec218ebaa0800000000000000
+      internalID: -6143330811786129386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_walk_NEE_22.5_0_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 5
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb0b0526b72acb30800000000000000
+      internalID: 4308299656792312783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_walk_NEE_22.5_0_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8b046f7c4761f50800000000000000
+      internalID: 6851792285269538990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_walk_NEE_22.5_0_12
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45aa04ff772b96e0800000000000000
+      internalID: -1829825393087306422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_walk_NEE_22.5_0_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356e4a4d97b7cc280800000000000000
+      internalID: -9021700190341110189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_walk_NEE_22.5_0_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ca6449c188f2d30800000000000000
+      internalID: 4408892216547126422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_walk_NEE_22.5_0_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 5
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d005814f7ccc98150800000000000000
+      internalID: 5875452348047314957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_walk_NEE_22.5_0_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 8
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16676016ae303e940800000000000000
+      internalID: 5324103489667102305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_walk_NEE_22.5_0_17
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1582dd8202f002c40800000000000000
+      internalID: 5485400976936216657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_walk_NEE_22.5_0_18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a0c9669b67a5380800000000000000
+      internalID: -8981735968174503413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      demonlord_default_walk_NEE_22.5_0_0: -5408731305099407684
+      demonlord_default_walk_NEE_22.5_0_1: -1134021682433414442
+      demonlord_default_walk_NEE_22.5_0_10: 4308299656792312783
+      demonlord_default_walk_NEE_22.5_0_11: 6851792285269538990
+      demonlord_default_walk_NEE_22.5_0_12: -1829825393087306422
+      demonlord_default_walk_NEE_22.5_0_13: -9021700190341110189
+      demonlord_default_walk_NEE_22.5_0_14: 4408892216547126422
+      demonlord_default_walk_NEE_22.5_0_15: 5875452348047314957
+      demonlord_default_walk_NEE_22.5_0_16: 5324103489667102305
+      demonlord_default_walk_NEE_22.5_0_17: 5485400976936216657
+      demonlord_default_walk_NEE_22.5_0_18: -8981735968174503413
+      demonlord_default_walk_NEE_22.5_0_2: 4244474315305160008
+      demonlord_default_walk_NEE_22.5_0_3: -6718103270174434697
+      demonlord_default_walk_NEE_22.5_0_4: -214755457910760169
+      demonlord_default_walk_NEE_22.5_0_5: -7028358875495063433
+      demonlord_default_walk_NEE_22.5_0_6: 6136847052365462750
+      demonlord_default_walk_NEE_22.5_0_7: 2030250057228377994
+      demonlord_default_walk_NEE_22.5_0_8: -8707034602103101634
+      demonlord_default_walk_NEE_22.5_0_9: -6143330811786129386
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 363c6063c5d254690ba988c6fd3c5e09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4867108649021101296
+    second: fighter_default_walk_W_180.0_1_0
+  - first:
+      213: 8035588777776189547
+    second: fighter_default_walk_W_180.0_1_1
+  - first:
+      213: 7199641634381219826
+    second: fighter_default_walk_W_180.0_1_2
+  - first:
+      213: -3248248324248439089
+    second: fighter_default_walk_W_180.0_1_3
+  - first:
+      213: -6776497579003351046
+    second: fighter_default_walk_W_180.0_1_4
+  - first:
+      213: -4179084170516518660
+    second: fighter_default_walk_W_180.0_1_5
+  - first:
+      213: 3614402505225026206
+    second: fighter_default_walk_W_180.0_1_6
+  - first:
+      213: 3728387002257214142
+    second: fighter_default_walk_W_180.0_1_7
+  - first:
+      213: -2159760748354859003
+    second: fighter_default_walk_W_180.0_1_8
+  - first:
+      213: -7023200804109223513
+    second: fighter_default_walk_W_180.0_1_9
+  - first:
+      213: 3045293813555191399
+    second: fighter_default_walk_W_180.0_1_10
+  - first:
+      213: 8672684738818161703
+    second: fighter_default_walk_W_180.0_1_11
+  - first:
+      213: 1787321651062286109
+    second: fighter_default_walk_W_180.0_1_12
+  - first:
+      213: -3361971359481998274
+    second: fighter_default_walk_W_180.0_1_13
+  - first:
+      213: 6610836915031128891
+    second: fighter_default_walk_W_180.0_1_14
+  - first:
+      213: 3190465222435163228
+    second: fighter_default_walk_W_180.0_1_15
+  - first:
+      213: 4739060013004132249
+    second: fighter_default_walk_W_180.0_1_16
+  - first:
+      213: -9210709670945706487
+    second: fighter_default_walk_W_180.0_1_17
+  - first:
+      213: 5579028446172974712
+    second: fighter_default_walk_W_180.0_1_18
+  - first:
+      213: 8126364264903866558
+    second: fighter_default_walk_W_180.0_1_19
+  - first:
+      213: 1834077331427747173
+    second: fighter_default_walk_W_180.0_1_20
+  - first:
+      213: -7343359585621116985
+    second: fighter_default_walk_W_180.0_1_21
+  - first:
+      213: 1768438275578315220
+    second: fighter_default_walk_W_180.0_1_22
+  - first:
+      213: 1417128629210158590
+    second: fighter_default_walk_W_180.0_1_23
+  - first:
+      213: 7370897929612221172
+    second: fighter_default_walk_W_180.0_1_24
+  - first:
+      213: -67438762866993287
+    second: fighter_default_walk_W_180.0_1_25
+  - first:
+      213: 6988521976117047640
+    second: fighter_default_walk_W_180.0_1_26
+  - first:
+      213: -1180032229925039859
+    second: fighter_default_walk_W_180.0_1_27
+  - first:
+      213: 554987265153908609
+    second: fighter_default_walk_W_180.0_1_28
+  - first:
+      213: 1519840411584622131
+    second: fighter_default_walk_W_180.0_1_29
+  - first:
+      213: 1317754093350257530
+    second: fighter_default_walk_W_180.0_1_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01badd3887e847cb0800000000000000
+      internalID: -4867108649021101296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 147
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6017744b65248f60800000000000000
+      internalID: 8035588777776189547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 114
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7c76fcbe34ae360800000000000000
+      internalID: 7199641634381219826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 151
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6f9eaeb57ebe2d0800000000000000
+      internalID: -3248248324248439089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 6
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affe536fa5b05f1a0800000000000000
+      internalID: -6776497579003351046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 152
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8a7e1b619e006c0800000000000000
+      internalID: -4179084170516518660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 131
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a3837bdefe82230800000000000000
+      internalID: 3614402505225026206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 103
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba89b68934edb330800000000000000
+      internalID: 3728387002257214142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 127
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5001a72da0df602e0800000000000000
+      internalID: -2159760748354859003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 122
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9f4d44414988e90800000000000000
+      internalID: -7023200804109223513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 192
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ed6a9b69e034a20800000000000000
+      internalID: 3045293813555191399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 197
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c3532f1d09b5870800000000000000
+      internalID: 8672684738818161703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 79
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17aeee6297ddc810800000000000000
+      internalID: 1787321651062286109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 181
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34d90d6cd0e751d0800000000000000
+      internalID: -3361971359481998274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 74
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b387406296ebb50800000000000000
+      internalID: 6610836915031128891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_15
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 206
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c4c7b473fc64c20800000000000000
+      internalID: 3190465222435163228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 192
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f8e5429f584c140800000000000000
+      internalID: 4739060013004132249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_17
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 78
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ea60eca5cfc2080800000000000000
+      internalID: -9210709670945706487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_18
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 73
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e80f510d0bc6d40800000000000000
+      internalID: 5579028446172974712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_19
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 204
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8f50d5e35a6c070800000000000000
+      internalID: 8126364264903866558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_20
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 116
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565e8569d93f37910800000000000000
+      internalID: 1834077331427747173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 98
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7f7191d55271a90800000000000000
+      internalID: -7343359585621116985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 88
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1cc07fd31ca8810800000000000000
+      internalID: 1768438275578315220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 122
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef59b11eaf6aaa310800000000000000
+      internalID: 1417128629210158590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 105
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fad2324d90ba4660800000000000000
+      internalID: 7370897929612221172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_25
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 140
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977983f6dc8601ff0800000000000000
+      internalID: -67438762866993287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_26
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 113
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851b773e5b73cf060800000000000000
+      internalID: 6988521976117047640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 149
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d015ecf50feaf9fe0800000000000000
+      internalID: -1180032229925039859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_28
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 94
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f3d5a2af5b3b700800000000000000
+      internalID: 554987265153908609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 145
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ee8c74dce871510800000000000000
+      internalID: 1519840411584622131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_W_180.0_1_30
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 97
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73857bbd5a994210800000000000000
+      internalID: 1317754093350257530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fighter_default_walk_W_180.0_1_0: -4867108649021101296
+      fighter_default_walk_W_180.0_1_1: 8035588777776189547
+      fighter_default_walk_W_180.0_1_10: 3045293813555191399
+      fighter_default_walk_W_180.0_1_11: 8672684738818161703
+      fighter_default_walk_W_180.0_1_12: 1787321651062286109
+      fighter_default_walk_W_180.0_1_13: -3361971359481998274
+      fighter_default_walk_W_180.0_1_14: 6610836915031128891
+      fighter_default_walk_W_180.0_1_15: 3190465222435163228
+      fighter_default_walk_W_180.0_1_16: 4739060013004132249
+      fighter_default_walk_W_180.0_1_17: -9210709670945706487
+      fighter_default_walk_W_180.0_1_18: 5579028446172974712
+      fighter_default_walk_W_180.0_1_19: 8126364264903866558
+      fighter_default_walk_W_180.0_1_2: 7199641634381219826
+      fighter_default_walk_W_180.0_1_20: 1834077331427747173
+      fighter_default_walk_W_180.0_1_21: -7343359585621116985
+      fighter_default_walk_W_180.0_1_22: 1768438275578315220
+      fighter_default_walk_W_180.0_1_23: 1417128629210158590
+      fighter_default_walk_W_180.0_1_24: 7370897929612221172
+      fighter_default_walk_W_180.0_1_25: -67438762866993287
+      fighter_default_walk_W_180.0_1_26: 6988521976117047640
+      fighter_default_walk_W_180.0_1_27: -1180032229925039859
+      fighter_default_walk_W_180.0_1_28: 554987265153908609
+      fighter_default_walk_W_180.0_1_29: 1519840411584622131
+      fighter_default_walk_W_180.0_1_3: -3248248324248439089
+      fighter_default_walk_W_180.0_1_30: 1317754093350257530
+      fighter_default_walk_W_180.0_1_4: -6776497579003351046
+      fighter_default_walk_W_180.0_1_5: -4179084170516518660
+      fighter_default_walk_W_180.0_1_6: 3614402505225026206
+      fighter_default_walk_W_180.0_1_7: 3728387002257214142
+      fighter_default_walk_W_180.0_1_8: -2159760748354859003
+      fighter_default_walk_W_180.0_1_9: -7023200804109223513
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

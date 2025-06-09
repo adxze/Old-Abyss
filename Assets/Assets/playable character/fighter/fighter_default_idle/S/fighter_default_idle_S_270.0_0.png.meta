@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 31514a54003e045aabd2dc785d73ff20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3859801609546306947
+    second: fighter_default_idle_S_270.0_0_0
+  - first:
+      213: -5288525520848156707
+    second: fighter_default_idle_S_270.0_0_1
+  - first:
+      213: -4294432993432766999
+    second: fighter_default_idle_S_270.0_0_2
+  - first:
+      213: -7956847534654199639
+    second: fighter_default_idle_S_270.0_0_3
+  - first:
+      213: -4988355151602480144
+    second: fighter_default_idle_S_270.0_0_4
+  - first:
+      213: 8063375775502127200
+    second: fighter_default_idle_S_270.0_0_5
+  - first:
+      213: 1848632406396996115
+    second: fighter_default_idle_S_270.0_0_6
+  - first:
+      213: 7488334927494453520
+    second: fighter_default_idle_S_270.0_0_7
+  - first:
+      213: 5530605203524957104
+    second: fighter_default_idle_S_270.0_0_8
+  - first:
+      213: -1456258311051865
+    second: fighter_default_idle_S_270.0_0_9
+  - first:
+      213: -6709992503427903402
+    second: fighter_default_idle_S_270.0_0_10
+  - first:
+      213: 6667916884927761690
+    second: fighter_default_idle_S_270.0_0_11
+  - first:
+      213: 4701929186113482161
+    second: fighter_default_idle_S_270.0_0_12
+  - first:
+      213: 2122611548554946535
+    second: fighter_default_idle_S_270.0_0_13
+  - first:
+      213: 6349034990948232248
+    second: fighter_default_idle_S_270.0_0_14
+  - first:
+      213: -556883531907107071
+    second: fighter_default_idle_S_270.0_0_15
+  - first:
+      213: 3556801234309111457
+    second: fighter_default_idle_S_270.0_0_16
+  - first:
+      213: 8909085843458324113
+    second: fighter_default_idle_S_270.0_0_17
+  - first:
+      213: 352135395081787497
+    second: fighter_default_idle_S_270.0_0_18
+  - first:
+      213: -536571219263131361
+    second: fighter_default_idle_S_270.0_0_19
+  - first:
+      213: -3357319281286323839
+    second: fighter_default_idle_S_270.0_0_20
+  - first:
+      213: -3969935659351004101
+    second: fighter_default_idle_S_270.0_0_21
+  - first:
+      213: -2357952787324348869
+    second: fighter_default_idle_S_270.0_0_22
+  - first:
+      213: 7665625666302174418
+    second: fighter_default_idle_S_270.0_0_23
+  - first:
+      213: -193873779362406782
+    second: fighter_default_idle_S_270.0_0_24
+  - first:
+      213: -3973560888712840075
+    second: fighter_default_idle_S_270.0_0_25
+  - first:
+      213: 4328837758935053086
+    second: fighter_default_idle_S_270.0_0_26
+  - first:
+      213: -6444687496914714594
+    second: fighter_default_idle_S_270.0_0_27
+  - first:
+      213: -1992196649870857925
+    second: fighter_default_idle_S_270.0_0_28
+  - first:
+      213: -1585718832541904083
+    second: fighter_default_idle_S_270.0_0_29
+  - first:
+      213: -3885419073071017268
+    second: fighter_default_idle_S_270.0_0_30
+  - first:
+      213: 5684660142392859197
+    second: fighter_default_idle_S_270.0_0_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 256
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ae28fd2ea3f6ac0800000000000000
+      internalID: -3859801609546306947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 206
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd702400f026b96b0800000000000000
+      internalID: -5288525520848156707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5f8b202fb1764c0800000000000000
+      internalID: -4294432993432766999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 196
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a86efc0359939190800000000000000
+      internalID: -7956847534654199639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 193
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb8e374b6dc5cab0800000000000000
+      internalID: -4988355151602480144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 190
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0605b45db8dd6ef60800000000000000
+      internalID: 8063375775502127200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 194
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a819f0169a7a910800000000000000
+      internalID: 1848632406396996115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 185
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019157011f8ebe760800000000000000
+      internalID: 7488334927494453520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 191
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b338055128a0cc40800000000000000
+      internalID: 5530605203524957104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 186
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a52ba07a83dafff0800000000000000
+      internalID: -1456258311051865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 192
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65055a38e5151e2a0800000000000000
+      internalID: -6709992503427903402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 197
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dc2f52413398c50800000000000000
+      internalID: 6667916884927761690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 192
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bde551deab904140800000000000000
+      internalID: 4701929186113482161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 190
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e762c315f7057d10800000000000000
+      internalID: 2122611548554946535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 173
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83caef58fad4c1850800000000000000
+      internalID: 6349034990948232248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 165
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1077963d06d8548f0800000000000000
+      internalID: -556883531907107071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 159
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae5aabb0eb4c5130800000000000000
+      internalID: 3556801234309111457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 147
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1967bcc4f5e63ab70800000000000000
+      internalID: 8909085843458324113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 151
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96811b0b64903e400800000000000000
+      internalID: 352135395081787497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 156
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f117f17a157bd88f0800000000000000
+      internalID: -536571219263131361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 152
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181eb59c6e76861d0800000000000000
+      internalID: -3357319281286323839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_21
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 145
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c2a3b2d84f7e8c0800000000000000
+      internalID: -3969935659351004101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_22
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36d362de6ed64fd0800000000000000
+      internalID: -2357952787324348869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 132
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4ee05ede5c16a60800000000000000
+      internalID: 7665625666302174418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_24
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 122
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e57d923d83f4df0800000000000000
+      internalID: -193873779362406782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 127
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cb2eeac631bd8c0800000000000000
+      internalID: -3973560888712840075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_26
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 116
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e133f9fa10f131c30800000000000000
+      internalID: 4328837758935053086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e104ff1fddedf86a0800000000000000
+      internalID: -6444687496914714594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 109
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3969b9b3bb4a54e0800000000000000
+      internalID: -1992196649870857925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_29
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 98
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2351b09f156ef9e0800000000000000
+      internalID: -1585718832541904083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_30
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 62
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2131a50f7341ac0800000000000000
+      internalID: -3885419073071017268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_idle_S_270.0_0_31
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 64
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ad528e748f3ee40800000000000000
+      internalID: 5684660142392859197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fighter_default_idle_S_270.0_0_0: -3859801609546306947
+      fighter_default_idle_S_270.0_0_1: -5288525520848156707
+      fighter_default_idle_S_270.0_0_10: -6709992503427903402
+      fighter_default_idle_S_270.0_0_11: 6667916884927761690
+      fighter_default_idle_S_270.0_0_12: 4701929186113482161
+      fighter_default_idle_S_270.0_0_13: 2122611548554946535
+      fighter_default_idle_S_270.0_0_14: 6349034990948232248
+      fighter_default_idle_S_270.0_0_15: -556883531907107071
+      fighter_default_idle_S_270.0_0_16: 3556801234309111457
+      fighter_default_idle_S_270.0_0_17: 8909085843458324113
+      fighter_default_idle_S_270.0_0_18: 352135395081787497
+      fighter_default_idle_S_270.0_0_19: -536571219263131361
+      fighter_default_idle_S_270.0_0_2: -4294432993432766999
+      fighter_default_idle_S_270.0_0_20: -3357319281286323839
+      fighter_default_idle_S_270.0_0_21: -3969935659351004101
+      fighter_default_idle_S_270.0_0_22: -2357952787324348869
+      fighter_default_idle_S_270.0_0_23: 7665625666302174418
+      fighter_default_idle_S_270.0_0_24: -193873779362406782
+      fighter_default_idle_S_270.0_0_25: -3973560888712840075
+      fighter_default_idle_S_270.0_0_26: 4328837758935053086
+      fighter_default_idle_S_270.0_0_27: -6444687496914714594
+      fighter_default_idle_S_270.0_0_28: -1992196649870857925
+      fighter_default_idle_S_270.0_0_29: -1585718832541904083
+      fighter_default_idle_S_270.0_0_3: -7956847534654199639
+      fighter_default_idle_S_270.0_0_30: -3885419073071017268
+      fighter_default_idle_S_270.0_0_31: 5684660142392859197
+      fighter_default_idle_S_270.0_0_4: -4988355151602480144
+      fighter_default_idle_S_270.0_0_5: 8063375775502127200
+      fighter_default_idle_S_270.0_0_6: 1848632406396996115
+      fighter_default_idle_S_270.0_0_7: 7488334927494453520
+      fighter_default_idle_S_270.0_0_8: 5530605203524957104
+      fighter_default_idle_S_270.0_0_9: -1456258311051865
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

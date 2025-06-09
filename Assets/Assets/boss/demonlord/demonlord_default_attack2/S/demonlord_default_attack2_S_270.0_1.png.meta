@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 7be53ff8c67454323bb09b2fe7d8273d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6178005025103924994
+    second: demonlord_default_attack2_S_270.0_1_0
+  - first:
+      213: 1067333702680354505
+    second: demonlord_default_attack2_S_270.0_1_1
+  - first:
+      213: -7179292618754379888
+    second: demonlord_default_attack2_S_270.0_1_2
+  - first:
+      213: 4809408428232330451
+    second: demonlord_default_attack2_S_270.0_1_3
+  - first:
+      213: -1418914974646458251
+    second: demonlord_default_attack2_S_270.0_1_4
+  - first:
+      213: -5196823704733595297
+    second: demonlord_default_attack2_S_270.0_1_5
+  - first:
+      213: 64054117277365332
+    second: demonlord_default_attack2_S_270.0_1_6
+  - first:
+      213: 4098901228471978379
+    second: demonlord_default_attack2_S_270.0_1_7
+  - first:
+      213: -1472133640238686710
+    second: demonlord_default_attack2_S_270.0_1_8
+  - first:
+      213: -3709383246802337899
+    second: demonlord_default_attack2_S_270.0_1_9
+  - first:
+      213: -8658664112965592450
+    second: demonlord_default_attack2_S_270.0_1_10
+  - first:
+      213: 2131900116726618051
+    second: demonlord_default_attack2_S_270.0_1_11
+  - first:
+      213: -4270313217778815807
+    second: demonlord_default_attack2_S_270.0_1_12
+  - first:
+      213: -1632250090656294207
+    second: demonlord_default_attack2_S_270.0_1_13
+  - first:
+      213: 1581966606529399167
+    second: demonlord_default_attack2_S_270.0_1_14
+  - first:
+      213: -6349616476702133030
+    second: demonlord_default_attack2_S_270.0_1_15
+  - first:
+      213: -1059199188687780626
+    second: demonlord_default_attack2_S_270.0_1_16
+  - first:
+      213: -2482087586080871414
+    second: demonlord_default_attack2_S_270.0_1_17
+  - first:
+      213: 2500380257632398569
+    second: demonlord_default_attack2_S_270.0_1_18
+  - first:
+      213: -5087542456843478096
+    second: demonlord_default_attack2_S_270.0_1_19
+  - first:
+      213: -2039438340938477347
+    second: demonlord_default_attack2_S_270.0_1_20
+  - first:
+      213: -1533617241163765542
+    second: demonlord_default_attack2_S_270.0_1_21
+  - first:
+      213: 3613996483793219591
+    second: demonlord_default_attack2_S_270.0_1_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: demonlord_default_attack2_S_270.0_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fc5ed76deacb550800000000000000
+      internalID: 6178005025103924994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_attack2_S_270.0_1_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 250
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce901df85eefce00800000000000000
+      internalID: 1067333702680354505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_attack2_S_270.0_1_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 250
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09faf8896670e5c90800000000000000
+      internalID: -7179292618754379888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_attack2_S_270.0_1_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 243
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcce80fb737eb240800000000000000
+      internalID: 4809408428232330451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_attack2_S_270.0_1_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 246
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57827b929500f4ce0800000000000000
+      internalID: -1418914974646458251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_attack2_S_270.0_1_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 244
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59460fdf5c21e7b0800000000000000
+      internalID: -5196823704733595297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_attack2_S_270.0_1_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 243
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454f7ba51e093e000800000000000000
+      internalID: 64054117277365332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_attack2_S_270.0_1_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 244
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b890c7c43f832e830800000000000000
+      internalID: 4098901228471978379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_attack2_S_270.0_1_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 243
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e9baff04ee19be0800000000000000
+      internalID: -1472133640238686710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_attack2_S_270.0_1_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 245
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fbf86179f958cc0800000000000000
+      internalID: -3709383246802337899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_attack2_S_270.0_1_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 248
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a53456dde36d780800000000000000
+      internalID: -8658664112965592450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_attack2_S_270.0_1_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 243
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c79a126cd7069d10800000000000000
+      internalID: 2131900116726618051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_attack2_S_270.0_1_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 241
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc63a6e0ccccb4c0800000000000000
+      internalID: -4270313217778815807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_attack2_S_270.0_1_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 237
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca15d9c0351959e0800000000000000
+      internalID: -1632250090656294207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_attack2_S_270.0_1_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 240
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7907bc3f3644f510800000000000000
+      internalID: 1581966606529399167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_attack2_S_270.0_1_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 239
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4b336c471a1e7a0800000000000000
+      internalID: -6349616476702133030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_attack2_S_270.0_1_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee402e323f7fc41f0800000000000000
+      internalID: -1059199188687780626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_attack2_S_270.0_1_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c2e3abd7add8dd0800000000000000
+      internalID: -2482087586080871414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_attack2_S_270.0_1_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec2493c89223b220800000000000000
+      internalID: 2500380257632398569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_attack2_S_270.0_1_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb5028271b6569b0800000000000000
+      internalID: -5087542456843478096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_attack2_S_270.0_1_20
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0dc0362a572b3e0800000000000000
+      internalID: -2039438340938477347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_attack2_S_270.0_1_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 3
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8e40f9e3f77bae0800000000000000
+      internalID: -1533617241163765542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_attack2_S_270.0_1_22
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700710c77ae772230800000000000000
+      internalID: 3613996483793219591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      demonlord_default_attack2_S_270.0_1_0: 6178005025103924994
+      demonlord_default_attack2_S_270.0_1_1: 1067333702680354505
+      demonlord_default_attack2_S_270.0_1_10: -8658664112965592450
+      demonlord_default_attack2_S_270.0_1_11: 2131900116726618051
+      demonlord_default_attack2_S_270.0_1_12: -4270313217778815807
+      demonlord_default_attack2_S_270.0_1_13: -1632250090656294207
+      demonlord_default_attack2_S_270.0_1_14: 1581966606529399167
+      demonlord_default_attack2_S_270.0_1_15: -6349616476702133030
+      demonlord_default_attack2_S_270.0_1_16: -1059199188687780626
+      demonlord_default_attack2_S_270.0_1_17: -2482087586080871414
+      demonlord_default_attack2_S_270.0_1_18: 2500380257632398569
+      demonlord_default_attack2_S_270.0_1_19: -5087542456843478096
+      demonlord_default_attack2_S_270.0_1_2: -7179292618754379888
+      demonlord_default_attack2_S_270.0_1_20: -2039438340938477347
+      demonlord_default_attack2_S_270.0_1_21: -1533617241163765542
+      demonlord_default_attack2_S_270.0_1_22: 3613996483793219591
+      demonlord_default_attack2_S_270.0_1_3: 4809408428232330451
+      demonlord_default_attack2_S_270.0_1_4: -1418914974646458251
+      demonlord_default_attack2_S_270.0_1_5: -5196823704733595297
+      demonlord_default_attack2_S_270.0_1_6: 64054117277365332
+      demonlord_default_attack2_S_270.0_1_7: 4098901228471978379
+      demonlord_default_attack2_S_270.0_1_8: -1472133640238686710
+      demonlord_default_attack2_S_270.0_1_9: -3709383246802337899
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 118730cb5e0cd4b5aa6a14d81187a469
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2868507783128113553
+    second: brazier_NNE_67.5_0_0
+  - first:
+      213: -8581257096233396731
+    second: brazier_NNE_67.5_0_1
+  - first:
+      213: -6038165569462897454
+    second: brazier_NNE_67.5_0_2
+  - first:
+      213: 3731516047936516108
+    second: brazier_NNE_67.5_0_3
+  - first:
+      213: 3503740699151047515
+    second: brazier_NNE_67.5_0_4
+  - first:
+      213: 2724010786507725813
+    second: brazier_NNE_67.5_0_5
+  - first:
+      213: 5508086298361046095
+    second: brazier_NNE_67.5_0_6
+  - first:
+      213: 8715597763969100027
+    second: brazier_NNE_67.5_0_7
+  - first:
+      213: 3963933001894760035
+    second: brazier_NNE_67.5_0_8
+  - first:
+      213: 5164039346523817112
+    second: brazier_NNE_67.5_0_9
+  - first:
+      213: 1803091873901117035
+    second: brazier_NNE_67.5_0_10
+  - first:
+      213: -373662958186523018
+    second: brazier_NNE_67.5_0_11
+  - first:
+      213: -2013811520321165444
+    second: brazier_NNE_67.5_0_12
+  - first:
+      213: -254909069415185525
+    second: brazier_NNE_67.5_0_13
+  - first:
+      213: 9086225063915251974
+    second: brazier_NNE_67.5_0_14
+  - first:
+      213: -7475753199112969767
+    second: brazier_NNE_67.5_0_15
+  - first:
+      213: -2424981998681938115
+    second: brazier_NNE_67.5_0_16
+  - first:
+      213: -8335697731900224491
+    second: brazier_NNE_67.5_0_17
+  - first:
+      213: -8635276094492183426
+    second: brazier_NNE_67.5_0_18
+  - first:
+      213: -8024548520685262653
+    second: brazier_NNE_67.5_0_19
+  - first:
+      213: 2430887559403337825
+    second: brazier_NNE_67.5_0_20
+  - first:
+      213: 2172266129539431642
+    second: brazier_NNE_67.5_0_21
+  - first:
+      213: -137674204481142827
+    second: brazier_NNE_67.5_0_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brazier_NNE_67.5_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1916bc871acfec720800000000000000
+      internalID: 2868507783128113553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_NNE_67.5_0_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 35
+        width: 176
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50655bce22049e880800000000000000
+      internalID: -8581257096233396731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_NNE_67.5_0_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d47b29f760243ca0800000000000000
+      internalID: -6038165569462897454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_NNE_67.5_0_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 127
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00fcee331209c330800000000000000
+      internalID: 3731516047936516108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_NNE_67.5_0_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 172
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b1afd2a99cf9030800000000000000
+      internalID: 3503740699151047515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_NNE_67.5_0_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 178
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb102eb061adc520800000000000000
+      internalID: 2724010786507725813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_NNE_67.5_0_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 80
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44a1062e47a07c40800000000000000
+      internalID: 5508086298361046095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_NNE_67.5_0_7
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 167
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf821963df504f870800000000000000
+      internalID: 8715597763969100027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_NNE_67.5_0_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 177
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e826b3018b20730800000000000000
+      internalID: 3963933001894760035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_NNE_67.5_0_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 176
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89441b7ec6a5aa740800000000000000
+      internalID: 5164039346523817112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_NNE_67.5_0_10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 176
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ef441918ed50910800000000000000
+      internalID: 1803091873901117035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_NNE_67.5_0_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 182
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676129fe48b70daf0800000000000000
+      internalID: -373662958186523018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_NNE_67.5_0_12
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 168
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77eaa687118d04e0800000000000000
+      internalID: -2013811520321165444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_NNE_67.5_0_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 158
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b838b7b4d81667cf0800000000000000
+      internalID: -254909069415185525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_NNE_67.5_0_14
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 106
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6096be30e81c81e70800000000000000
+      internalID: 9086225063915251974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_NNE_67.5_0_15
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 125
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1a16ad21ac04890800000000000000
+      internalID: -7475753199112969767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_NNE_67.5_0_16
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 138
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37a8d568bbb85ed0800000000000000
+      internalID: -2424981998681938115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_NNE_67.5_0_17
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 115
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cce07c317a15c80800000000000000
+      internalID: -8335697731900224491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_NNE_67.5_0_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 126
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74fe5ac426592880800000000000000
+      internalID: -8635276094492183426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_NNE_67.5_0_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 139
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c82ba5e2a313a090800000000000000
+      internalID: -8024548520685262653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_NNE_67.5_0_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 154
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168f62b1b5f3cb120800000000000000
+      internalID: 2430887559403337825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_NNE_67.5_0_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 118
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc7fc02980752e10800000000000000
+      internalID: 2172266129539431642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_NNE_67.5_0_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 125
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfba2b5a02e61ef0800000000000000
+      internalID: -137674204481142827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      brazier_NNE_67.5_0_0: 2868507783128113553
+      brazier_NNE_67.5_0_1: -8581257096233396731
+      brazier_NNE_67.5_0_10: 1803091873901117035
+      brazier_NNE_67.5_0_11: -373662958186523018
+      brazier_NNE_67.5_0_12: -2013811520321165444
+      brazier_NNE_67.5_0_13: -254909069415185525
+      brazier_NNE_67.5_0_14: 9086225063915251974
+      brazier_NNE_67.5_0_15: -7475753199112969767
+      brazier_NNE_67.5_0_16: -2424981998681938115
+      brazier_NNE_67.5_0_17: -8335697731900224491
+      brazier_NNE_67.5_0_18: -8635276094492183426
+      brazier_NNE_67.5_0_19: -8024548520685262653
+      brazier_NNE_67.5_0_2: -6038165569462897454
+      brazier_NNE_67.5_0_20: 2430887559403337825
+      brazier_NNE_67.5_0_21: 2172266129539431642
+      brazier_NNE_67.5_0_22: -137674204481142827
+      brazier_NNE_67.5_0_3: 3731516047936516108
+      brazier_NNE_67.5_0_4: 3503740699151047515
+      brazier_NNE_67.5_0_5: 2724010786507725813
+      brazier_NNE_67.5_0_6: 5508086298361046095
+      brazier_NNE_67.5_0_7: 8715597763969100027
+      brazier_NNE_67.5_0_8: 3963933001894760035
+      brazier_NNE_67.5_0_9: 5164039346523817112
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

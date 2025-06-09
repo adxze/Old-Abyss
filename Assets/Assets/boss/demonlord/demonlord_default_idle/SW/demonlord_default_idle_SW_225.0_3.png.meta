@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: c906e8d623e23417bae4d8bdc269d172
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8363344044203717257
+    second: demonlord_default_idle_SW_225.0_3_0
+  - first:
+      213: 4373107582988947094
+    second: demonlord_default_idle_SW_225.0_3_1
+  - first:
+      213: -7051414676614599734
+    second: demonlord_default_idle_SW_225.0_3_2
+  - first:
+      213: -2463810170738635564
+    second: demonlord_default_idle_SW_225.0_3_3
+  - first:
+      213: -1556070322033996002
+    second: demonlord_default_idle_SW_225.0_3_4
+  - first:
+      213: -8758760068788285058
+    second: demonlord_default_idle_SW_225.0_3_5
+  - first:
+      213: -6471075746794068711
+    second: demonlord_default_idle_SW_225.0_3_6
+  - first:
+      213: -8736443751502544925
+    second: demonlord_default_idle_SW_225.0_3_7
+  - first:
+      213: -1533869865927161544
+    second: demonlord_default_idle_SW_225.0_3_8
+  - first:
+      213: 159716555714830354
+    second: demonlord_default_idle_SW_225.0_3_9
+  - first:
+      213: 1022915598872656805
+    second: demonlord_default_idle_SW_225.0_3_10
+  - first:
+      213: -1790366400477477662
+    second: demonlord_default_idle_SW_225.0_3_11
+  - first:
+      213: 567687911261173718
+    second: demonlord_default_idle_SW_225.0_3_12
+  - first:
+      213: -5997929194804077554
+    second: demonlord_default_idle_SW_225.0_3_13
+  - first:
+      213: -2447038841520627568
+    second: demonlord_default_idle_SW_225.0_3_14
+  - first:
+      213: -5883875157680201489
+    second: demonlord_default_idle_SW_225.0_3_15
+  - first:
+      213: -5749216608905249216
+    second: demonlord_default_idle_SW_225.0_3_16
+  - first:
+      213: -5173206173148803607
+    second: demonlord_default_idle_SW_225.0_3_17
+  - first:
+      213: 6450275742983468401
+    second: demonlord_default_idle_SW_225.0_3_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: demonlord_default_idle_SW_225.0_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dcbd617ee6feb80800000000000000
+      internalID: -8363344044203717257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_idle_SW_225.0_3_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 249
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e8f905d2660bc30800000000000000
+      internalID: 4373107582988947094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_idle_SW_225.0_3_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 249
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb296c26b7542e90800000000000000
+      internalID: -7051414676614599734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_idle_SW_225.0_3_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 251
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc012b14b9cecdd0800000000000000
+      internalID: -2463810170738635564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_idle_SW_225.0_3_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 246
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fc2a9594ab76ae0800000000000000
+      internalID: -1556070322033996002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_idle_SW_225.0_3_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 247
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e719ff29f12a27680800000000000000
+      internalID: -8758760068788285058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_idle_SW_225.0_3_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 246
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915a1bdb4ee1236a0800000000000000
+      internalID: -6471075746794068711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_idle_SW_225.0_3_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 251
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef728712bae1c680800000000000000
+      internalID: -8736443751502544925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_idle_SW_225.0_3_8
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 246
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8394cb5db7996bae0800000000000000
+      internalID: -1533869865927161544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_idle_SW_225.0_3_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210a1287c5d673200800000000000000
+      internalID: 159716555714830354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_idle_SW_225.0_3_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abb20a4150223e00800000000000000
+      internalID: 1022915598872656805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_idle_SW_225.0_3_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 3
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4ceb99e375727e0800000000000000
+      internalID: -1790366400477477662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_idle_SW_225.0_3_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d77106c525d0e700800000000000000
+      internalID: 567687911261173718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_idle_SW_225.0_3_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c12cbfc2313cca0800000000000000
+      internalID: -5997929194804077554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_idle_SW_225.0_3_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090649b732f5a0ed0800000000000000
+      internalID: -2447038841520627568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_idle_SW_225.0_3_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0e9bbd7b6485ea0800000000000000
+      internalID: -5883875157680201489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_idle_SW_225.0_3_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e3d6174fda630b0800000000000000
+      internalID: -5749216608905249216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_idle_SW_225.0_3_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed8b93f4641538b0800000000000000
+      internalID: -5173206173148803607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_default_idle_SW_225.0_3_18
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17539dbfc9bf38950800000000000000
+      internalID: 6450275742983468401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      demonlord_default_idle_SW_225.0_3_0: -8363344044203717257
+      demonlord_default_idle_SW_225.0_3_1: 4373107582988947094
+      demonlord_default_idle_SW_225.0_3_10: 1022915598872656805
+      demonlord_default_idle_SW_225.0_3_11: -1790366400477477662
+      demonlord_default_idle_SW_225.0_3_12: 567687911261173718
+      demonlord_default_idle_SW_225.0_3_13: -5997929194804077554
+      demonlord_default_idle_SW_225.0_3_14: -2447038841520627568
+      demonlord_default_idle_SW_225.0_3_15: -5883875157680201489
+      demonlord_default_idle_SW_225.0_3_16: -5749216608905249216
+      demonlord_default_idle_SW_225.0_3_17: -5173206173148803607
+      demonlord_default_idle_SW_225.0_3_18: 6450275742983468401
+      demonlord_default_idle_SW_225.0_3_2: -7051414676614599734
+      demonlord_default_idle_SW_225.0_3_3: -2463810170738635564
+      demonlord_default_idle_SW_225.0_3_4: -1556070322033996002
+      demonlord_default_idle_SW_225.0_3_5: -8758760068788285058
+      demonlord_default_idle_SW_225.0_3_6: -6471075746794068711
+      demonlord_default_idle_SW_225.0_3_7: -8736443751502544925
+      demonlord_default_idle_SW_225.0_3_8: -1533869865927161544
+      demonlord_default_idle_SW_225.0_3_9: 159716555714830354
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

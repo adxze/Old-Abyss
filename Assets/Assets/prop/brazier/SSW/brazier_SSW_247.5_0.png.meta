@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: e9963e29768bc46eda102e138a4c0222
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8499632485454396421
+    second: brazier_SSW_247.5_0_0
+  - first:
+      213: -2300680297535081559
+    second: brazier_SSW_247.5_0_1
+  - first:
+      213: -8788541864171199892
+    second: brazier_SSW_247.5_0_2
+  - first:
+      213: 5163869642073385526
+    second: brazier_SSW_247.5_0_3
+  - first:
+      213: -499962328903406550
+    second: brazier_SSW_247.5_0_4
+  - first:
+      213: 2951580689011362043
+    second: brazier_SSW_247.5_0_5
+  - first:
+      213: -7479658311075877728
+    second: brazier_SSW_247.5_0_6
+  - first:
+      213: 6555743140065292962
+    second: brazier_SSW_247.5_0_7
+  - first:
+      213: 9066944534037274742
+    second: brazier_SSW_247.5_0_8
+  - first:
+      213: -6004815088318206527
+    second: brazier_SSW_247.5_0_9
+  - first:
+      213: 5069808320245385746
+    second: brazier_SSW_247.5_0_10
+  - first:
+      213: -4481256553387264227
+    second: brazier_SSW_247.5_0_11
+  - first:
+      213: -446278503376890503
+    second: brazier_SSW_247.5_0_12
+  - first:
+      213: -6257123250655397432
+    second: brazier_SSW_247.5_0_13
+  - first:
+      213: -7920922212760434583
+    second: brazier_SSW_247.5_0_14
+  - first:
+      213: 4582800367741245437
+    second: brazier_SSW_247.5_0_15
+  - first:
+      213: -2559877992076692876
+    second: brazier_SSW_247.5_0_16
+  - first:
+      213: 5063515222846794223
+    second: brazier_SSW_247.5_0_17
+  - first:
+      213: 8507831714329433447
+    second: brazier_SSW_247.5_0_18
+  - first:
+      213: 7291252824739841014
+    second: brazier_SSW_247.5_0_19
+  - first:
+      213: -4526753004836900764
+    second: brazier_SSW_247.5_0_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brazier_SSW_247.5_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c31e866b2c4f570800000000000000
+      internalID: 8499632485454396421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_SSW_247.5_0_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 16
+        width: 179
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a37eab75775210e0800000000000000
+      internalID: -2300680297535081559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_SSW_247.5_0_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c622d6cfcb3d80680800000000000000
+      internalID: -8788541864171199892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_SSW_247.5_0_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 127
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a25328410c9a740800000000000000
+      internalID: 5163869642073385526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_SSW_247.5_0_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 104
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ca2a829e6cf09f0800000000000000
+      internalID: -499962328903406550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_SSW_247.5_0_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 172
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8cc6e9ffe16f820800000000000000
+      internalID: 2951580689011362043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_SSW_247.5_0_6
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 179
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac260f156ae23890800000000000000
+      internalID: -7479658311075877728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_SSW_247.5_0_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 80
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2bb4ee6adaafa50800000000000000
+      internalID: 6555743140065292962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_SSW_247.5_0_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 177
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6702675d30244dd70800000000000000
+      internalID: 9066944534037274742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_SSW_247.5_0_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 178
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd23e6fd7c9aaca0800000000000000
+      internalID: -6004815088318206527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_SSW_247.5_0_10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 176
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21acb876ec39b5640800000000000000
+      internalID: 5069808320245385746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_SSW_247.5_0_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 182
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17f5fb48e06fc1c0800000000000000
+      internalID: -4481256553387264227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_SSW_247.5_0_12
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 107
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975d35fc0108ec9f0800000000000000
+      internalID: -446278503376890503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_SSW_247.5_0_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 138
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9f8d02e8b3a29a0800000000000000
+      internalID: -6257123250655397432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_SSW_247.5_0_14
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 115
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968c9eed63b331290800000000000000
+      internalID: -7920922212760434583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_SSW_247.5_0_15
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 155
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df71fbb57a0699f30800000000000000
+      internalID: 4582800367741245437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_SSW_247.5_0_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 126
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472bded678c797cd0800000000000000
+      internalID: -2559877992076692876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_SSW_247.5_0_17
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 139
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9e09c7448354640800000000000000
+      internalID: 5063515222846794223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_SSW_247.5_0_18
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 152
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76598652ed3e11670800000000000000
+      internalID: 8507831714329433447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_SSW_247.5_0_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 118
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f38e2a30dbbf2560800000000000000
+      internalID: 7291252824739841014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_SSW_247.5_0_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 125
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460b3c8302ebd21c0800000000000000
+      internalID: -4526753004836900764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      brazier_SSW_247.5_0_0: 8499632485454396421
+      brazier_SSW_247.5_0_1: -2300680297535081559
+      brazier_SSW_247.5_0_10: 5069808320245385746
+      brazier_SSW_247.5_0_11: -4481256553387264227
+      brazier_SSW_247.5_0_12: -446278503376890503
+      brazier_SSW_247.5_0_13: -6257123250655397432
+      brazier_SSW_247.5_0_14: -7920922212760434583
+      brazier_SSW_247.5_0_15: 4582800367741245437
+      brazier_SSW_247.5_0_16: -2559877992076692876
+      brazier_SSW_247.5_0_17: 5063515222846794223
+      brazier_SSW_247.5_0_18: 8507831714329433447
+      brazier_SSW_247.5_0_19: 7291252824739841014
+      brazier_SSW_247.5_0_2: -8788541864171199892
+      brazier_SSW_247.5_0_20: -4526753004836900764
+      brazier_SSW_247.5_0_3: 5163869642073385526
+      brazier_SSW_247.5_0_4: -499962328903406550
+      brazier_SSW_247.5_0_5: 2951580689011362043
+      brazier_SSW_247.5_0_6: -7479658311075877728
+      brazier_SSW_247.5_0_7: 6555743140065292962
+      brazier_SSW_247.5_0_8: 9066944534037274742
+      brazier_SSW_247.5_0_9: -6004815088318206527
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

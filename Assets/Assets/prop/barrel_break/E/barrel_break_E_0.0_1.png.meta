@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 340fc867412714f6398bf7d2c2b32f95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -796183101365997914
+    second: barrel_break_E_0.0_1_0
+  - first:
+      213: -3371693120923728374
+    second: barrel_break_E_0.0_1_1
+  - first:
+      213: -4753299273053732644
+    second: barrel_break_E_0.0_1_2
+  - first:
+      213: 8561372257810343728
+    second: barrel_break_E_0.0_1_3
+  - first:
+      213: 5440113185801330380
+    second: barrel_break_E_0.0_1_4
+  - first:
+      213: 1351515081449925634
+    second: barrel_break_E_0.0_1_5
+  - first:
+      213: 1577095232295100265
+    second: barrel_break_E_0.0_1_6
+  - first:
+      213: -7286618507722899174
+    second: barrel_break_E_0.0_1_7
+  - first:
+      213: 6584535499722115615
+    second: barrel_break_E_0.0_1_8
+  - first:
+      213: -7460036769623209182
+    second: barrel_break_E_0.0_1_9
+  - first:
+      213: -217280409106269487
+    second: barrel_break_E_0.0_1_10
+  - first:
+      213: -842629888059076709
+    second: barrel_break_E_0.0_1_11
+  - first:
+      213: 3482122057736693937
+    second: barrel_break_E_0.0_1_12
+  - first:
+      213: -893907345477660577
+    second: barrel_break_E_0.0_1_13
+  - first:
+      213: 6488202440897283832
+    second: barrel_break_E_0.0_1_14
+  - first:
+      213: 500969190033048428
+    second: barrel_break_E_0.0_1_15
+  - first:
+      213: -6169224456289019461
+    second: barrel_break_E_0.0_1_16
+  - first:
+      213: 2187296144898577985
+    second: barrel_break_E_0.0_1_17
+  - first:
+      213: 1241383790178231997
+    second: barrel_break_E_0.0_1_18
+  - first:
+      213: -8238131336976452371
+    second: barrel_break_E_0.0_1_19
+  - first:
+      213: -6024012888553916845
+    second: barrel_break_E_0.0_1_20
+  - first:
+      213: -6368154311452660970
+    second: barrel_break_E_0.0_1_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: barrel_break_E_0.0_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 256
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae29ea00b363f4f0800000000000000
+      internalID: -796183101365997914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_E_0.0_1_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 34
+        width: 179
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0686b378f65531d0800000000000000
+      internalID: -3371693120923728374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_E_0.0_1_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 151
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd08286ce73e80eb0800000000000000
+      internalID: -4753299273053732644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_E_0.0_1_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 128
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0376ba855ba10d670800000000000000
+      internalID: 8561372257810343728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_E_0.0_1_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 137
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce5b999e1a2f7b40800000000000000
+      internalID: 5440113185801330380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_E_0.0_1_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 133
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ce7625ecb81c210800000000000000
+      internalID: 1351515081449925634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_E_0.0_1_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 115
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f59e902c7f2e510800000000000000
+      internalID: 1577095232295100265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_E_0.0_1_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 135
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11c369c21bb0ea90800000000000000
+      internalID: -7286618507722899174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_E_0.0_1_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 118
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ac2ef8628f06b50800000000000000
+      internalID: 6584535499722115615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_E_0.0_1_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 156
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b814f3510a87890800000000000000
+      internalID: -7460036769623209182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_E_0.0_1_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 73
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dab19e7e901cfcf0800000000000000
+      internalID: -217280409106269487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_E_0.0_1_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 177
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f8c1dc4906e44f0800000000000000
+      internalID: -842629888059076709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_E_0.0_1_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8a2fbff8bf25030800000000000000
+      internalID: 3482122057736693937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_E_0.0_1_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 183
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5011b261043893f0800000000000000
+      internalID: -893907345477660577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_E_0.0_1_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 179
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f641887eb9ba0a50800000000000000
+      internalID: 6488202440897283832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_E_0.0_1_15
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 76
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63c557f2dcc3f600800000000000000
+      internalID: 500969190033048428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_E_0.0_1_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 181
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb99d3ffa03826aa0800000000000000
+      internalID: -6169224456289019461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_E_0.0_1_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 137
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146d2474146da5e10800000000000000
+      internalID: 2187296144898577985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_E_0.0_1_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 99
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db66083eaf74a3110800000000000000
+      internalID: 1241383790178231997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_E_0.0_1_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 145
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4318e42374cad80800000000000000
+      internalID: -8238131336976452371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_E_0.0_1_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3567e57c138666ca0800000000000000
+      internalID: -6024012888553916845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_break_E_0.0_1_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 138
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bedf6c465cf97a0800000000000000
+      internalID: -6368154311452660970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      barrel_break_E_0.0_1_0: -796183101365997914
+      barrel_break_E_0.0_1_1: -3371693120923728374
+      barrel_break_E_0.0_1_10: -217280409106269487
+      barrel_break_E_0.0_1_11: -842629888059076709
+      barrel_break_E_0.0_1_12: 3482122057736693937
+      barrel_break_E_0.0_1_13: -893907345477660577
+      barrel_break_E_0.0_1_14: 6488202440897283832
+      barrel_break_E_0.0_1_15: 500969190033048428
+      barrel_break_E_0.0_1_16: -6169224456289019461
+      barrel_break_E_0.0_1_17: 2187296144898577985
+      barrel_break_E_0.0_1_18: 1241383790178231997
+      barrel_break_E_0.0_1_19: -8238131336976452371
+      barrel_break_E_0.0_1_2: -4753299273053732644
+      barrel_break_E_0.0_1_20: -6024012888553916845
+      barrel_break_E_0.0_1_21: -6368154311452660970
+      barrel_break_E_0.0_1_3: 8561372257810343728
+      barrel_break_E_0.0_1_4: 5440113185801330380
+      barrel_break_E_0.0_1_5: 1351515081449925634
+      barrel_break_E_0.0_1_6: 1577095232295100265
+      barrel_break_E_0.0_1_7: -7286618507722899174
+      barrel_break_E_0.0_1_8: 6584535499722115615
+      barrel_break_E_0.0_1_9: -7460036769623209182
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

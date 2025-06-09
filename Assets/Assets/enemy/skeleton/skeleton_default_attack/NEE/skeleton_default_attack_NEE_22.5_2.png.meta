@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 7ba016cf37ed848dea64e35225e89db0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3660317633244135422
+    second: skeleton_default_attack_NEE_22.5_2_0
+  - first:
+      213: 472474881170002792
+    second: skeleton_default_attack_NEE_22.5_2_1
+  - first:
+      213: -6038188974355338888
+    second: skeleton_default_attack_NEE_22.5_2_2
+  - first:
+      213: 9165555055279650583
+    second: skeleton_default_attack_NEE_22.5_2_3
+  - first:
+      213: -8321499364718097104
+    second: skeleton_default_attack_NEE_22.5_2_4
+  - first:
+      213: 6147217940001926336
+    second: skeleton_default_attack_NEE_22.5_2_5
+  - first:
+      213: 7824970933004424006
+    second: skeleton_default_attack_NEE_22.5_2_6
+  - first:
+      213: -9039548539385264424
+    second: skeleton_default_attack_NEE_22.5_2_7
+  - first:
+      213: -1990977576614662993
+    second: skeleton_default_attack_NEE_22.5_2_8
+  - first:
+      213: -2483814454040074153
+    second: skeleton_default_attack_NEE_22.5_2_9
+  - first:
+      213: 7295147348226883080
+    second: skeleton_default_attack_NEE_22.5_2_10
+  - first:
+      213: -5976661507354109491
+    second: skeleton_default_attack_NEE_22.5_2_11
+  - first:
+      213: -377258390579498059
+    second: skeleton_default_attack_NEE_22.5_2_12
+  - first:
+      213: 1516573412988066774
+    second: skeleton_default_attack_NEE_22.5_2_13
+  - first:
+      213: -2566140783228219273
+    second: skeleton_default_attack_NEE_22.5_2_14
+  - first:
+      213: -4378103454389498125
+    second: skeleton_default_attack_NEE_22.5_2_15
+  - first:
+      213: -60112228248976911
+    second: skeleton_default_attack_NEE_22.5_2_16
+  - first:
+      213: 5900686179428835113
+    second: skeleton_default_attack_NEE_22.5_2_17
+  - first:
+      213: 1541624337756246551
+    second: skeleton_default_attack_NEE_22.5_2_18
+  - first:
+      213: -6914110818233170879
+    second: skeleton_default_attack_NEE_22.5_2_19
+  - first:
+      213: 8708479156336605678
+    second: skeleton_default_attack_NEE_22.5_2_20
+  - first:
+      213: -6858488762719281076
+    second: skeleton_default_attack_NEE_22.5_2_21
+  - first:
+      213: -6076940397174884667
+    second: skeleton_default_attack_NEE_22.5_2_22
+  - first:
+      213: -540420739142516903
+    second: skeleton_default_attack_NEE_22.5_2_23
+  - first:
+      213: -3832657694775381052
+    second: skeleton_default_attack_NEE_22.5_2_24
+  - first:
+      213: 7836940697800056714
+    second: skeleton_default_attack_NEE_22.5_2_25
+  - first:
+      213: -5926024103406197504
+    second: skeleton_default_attack_NEE_22.5_2_26
+  - first:
+      213: 708715005699701398
+    second: skeleton_default_attack_NEE_22.5_2_27
+  - first:
+      213: -7575589788800889819
+    second: skeleton_default_attack_NEE_22.5_2_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff7d968e7f0cc230800000000000000
+      internalID: 3660317633244135422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 169
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863de61b6619e8600800000000000000
+      internalID: 472474881170002792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 180
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879aed89e1b043ca0800000000000000
+      internalID: -6038188974355338888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 174
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717ba37f2c7923f70800000000000000
+      internalID: 9165555055279650583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dc65fba68148c80800000000000000
+      internalID: -8321499364718097104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 180
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc29b6a52e4f4550800000000000000
+      internalID: 6147217940001926336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 49
+        width: 149
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6435c77ea91e79c60800000000000000
+      internalID: 7824970933004424006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 172
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d64a0c3f721d8280800000000000000
+      internalID: -9039548539385264424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_8
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 164
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac6d165170ae54e0800000000000000
+      internalID: -1990977576614662993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 167
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758e5f2f9e7b78dd0800000000000000
+      internalID: -2483814454040074153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 170
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e3233acd19d3560800000000000000
+      internalID: 7295147348226883080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 147
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc958675602ae0da0800000000000000
+      internalID: -5976661507354109491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 148
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b339f81e75b3caf0800000000000000
+      internalID: -377258390579498059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_13
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 152
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db94f4eb73fb0510800000000000000
+      internalID: 1516573412988066774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 153
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7701a0cbd8c336cd0800000000000000
+      internalID: -2566140783228219273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 136
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe043bba1add33c0800000000000000
+      internalID: -4378103454389498125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 141
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f100943f307a2ff0800000000000000
+      internalID: -60112228248976911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 137
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f99e721d273e150800000000000000
+      internalID: 5900686179428835113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712de05da23f46510800000000000000
+      internalID: 1541624337756246551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_19
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 138
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144c685e7d42c00a0800000000000000
+      internalID: -6914110818233170879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 137
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9365737abbad870800000000000000
+      internalID: 8708479156336605678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 120
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40eb12eec0c1d0a0800000000000000
+      internalID: -6858488762719281076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 124
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c67b21e7ee5aaba0800000000000000
+      internalID: -6076940397174884667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_23
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 117
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ff726733a0088f0800000000000000
+      internalID: -540420739142516903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 108
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3fe35022aafcac0800000000000000
+      internalID: -3832657694775381052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 84
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f9c22fa0862cc60800000000000000
+      internalID: 7836940697800056714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 87
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0052212b97882cda0800000000000000
+      internalID: -5926024103406197504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_27
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 75
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a38b1fa8cd5d900800000000000000
+      internalID: 708715005699701398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_NEE_22.5_2_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 90
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c427a69391ed690800000000000000
+      internalID: -7575589788800889819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      skeleton_default_attack_NEE_22.5_2_0: 3660317633244135422
+      skeleton_default_attack_NEE_22.5_2_1: 472474881170002792
+      skeleton_default_attack_NEE_22.5_2_10: 7295147348226883080
+      skeleton_default_attack_NEE_22.5_2_11: -5976661507354109491
+      skeleton_default_attack_NEE_22.5_2_12: -377258390579498059
+      skeleton_default_attack_NEE_22.5_2_13: 1516573412988066774
+      skeleton_default_attack_NEE_22.5_2_14: -2566140783228219273
+      skeleton_default_attack_NEE_22.5_2_15: -4378103454389498125
+      skeleton_default_attack_NEE_22.5_2_16: -60112228248976911
+      skeleton_default_attack_NEE_22.5_2_17: 5900686179428835113
+      skeleton_default_attack_NEE_22.5_2_18: 1541624337756246551
+      skeleton_default_attack_NEE_22.5_2_19: -6914110818233170879
+      skeleton_default_attack_NEE_22.5_2_2: -6038188974355338888
+      skeleton_default_attack_NEE_22.5_2_20: 8708479156336605678
+      skeleton_default_attack_NEE_22.5_2_21: -6858488762719281076
+      skeleton_default_attack_NEE_22.5_2_22: -6076940397174884667
+      skeleton_default_attack_NEE_22.5_2_23: -540420739142516903
+      skeleton_default_attack_NEE_22.5_2_24: -3832657694775381052
+      skeleton_default_attack_NEE_22.5_2_25: 7836940697800056714
+      skeleton_default_attack_NEE_22.5_2_26: -5926024103406197504
+      skeleton_default_attack_NEE_22.5_2_27: 708715005699701398
+      skeleton_default_attack_NEE_22.5_2_28: -7575589788800889819
+      skeleton_default_attack_NEE_22.5_2_3: 9165555055279650583
+      skeleton_default_attack_NEE_22.5_2_4: -8321499364718097104
+      skeleton_default_attack_NEE_22.5_2_5: 6147217940001926336
+      skeleton_default_attack_NEE_22.5_2_6: 7824970933004424006
+      skeleton_default_attack_NEE_22.5_2_7: -9039548539385264424
+      skeleton_default_attack_NEE_22.5_2_8: -1990977576614662993
+      skeleton_default_attack_NEE_22.5_2_9: -2483814454040074153
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

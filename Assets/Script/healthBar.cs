@@ -31,7 +31,6 @@ public class HealthBar : MonoBehaviour
         if (healthSlider != null) healthSlider.maxValue = maxHealth;
         if (easeHealthSlider != null) easeHealthSlider.maxValue = maxHealth;
         
-        // Hide initially if hideUntilDamaged is true
         if (hideUntilDamaged)
         {
             SetVisibility(false);

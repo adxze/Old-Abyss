@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: e087dff86062e4cc7baae7d58d1e86e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1680653330791108100
+    second: skeleton_default_attack_W_180.0_6_0
+  - first:
+      213: 4603182946912494698
+    second: skeleton_default_attack_W_180.0_6_1
+  - first:
+      213: -3021042792098845612
+    second: skeleton_default_attack_W_180.0_6_2
+  - first:
+      213: 4173652123684933810
+    second: skeleton_default_attack_W_180.0_6_3
+  - first:
+      213: -3354458601085436416
+    second: skeleton_default_attack_W_180.0_6_4
+  - first:
+      213: -7272324849144617601
+    second: skeleton_default_attack_W_180.0_6_5
+  - first:
+      213: 56363907874486928
+    second: skeleton_default_attack_W_180.0_6_6
+  - first:
+      213: 1000794055295181972
+    second: skeleton_default_attack_W_180.0_6_7
+  - first:
+      213: 8059670883573288425
+    second: skeleton_default_attack_W_180.0_6_8
+  - first:
+      213: 2646051374653315421
+    second: skeleton_default_attack_W_180.0_6_9
+  - first:
+      213: -4753843257256831635
+    second: skeleton_default_attack_W_180.0_6_10
+  - first:
+      213: -143300399501192964
+    second: skeleton_default_attack_W_180.0_6_11
+  - first:
+      213: -6583151813652870936
+    second: skeleton_default_attack_W_180.0_6_12
+  - first:
+      213: -6925109926202247898
+    second: skeleton_default_attack_W_180.0_6_13
+  - first:
+      213: -3280758601664444393
+    second: skeleton_default_attack_W_180.0_6_14
+  - first:
+      213: 8956521880635253366
+    second: skeleton_default_attack_W_180.0_6_15
+  - first:
+      213: 7507865269213829878
+    second: skeleton_default_attack_W_180.0_6_16
+  - first:
+      213: 4287333532677529476
+    second: skeleton_default_attack_W_180.0_6_17
+  - first:
+      213: -1322785929592129581
+    second: skeleton_default_attack_W_180.0_6_18
+  - first:
+      213: 7894607958714358301
+    second: skeleton_default_attack_W_180.0_6_19
+  - first:
+      213: 3597267205336677278
+    second: skeleton_default_attack_W_180.0_6_20
+  - first:
+      213: -7876416653590773779
+    second: skeleton_default_attack_W_180.0_6_21
+  - first:
+      213: -7946061149815837633
+    second: skeleton_default_attack_W_180.0_6_22
+  - first:
+      213: -3491766662056131760
+    second: skeleton_default_attack_W_180.0_6_23
+  - first:
+      213: -7712596420009707649
+    second: skeleton_default_attack_W_180.0_6_24
+  - first:
+      213: 5793533662073499007
+    second: skeleton_default_attack_W_180.0_6_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 129
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf17e9b33be1da8e0800000000000000
+      internalID: -1680653330791108100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2
+        width: 135
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64ead2608ac1ef30800000000000000
+      internalID: 4603182946912494698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 182
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ca1b536991316d0800000000000000
+      internalID: -3021042792098845612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 31
+        width: 156
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b09b485e7acbe930800000000000000
+      internalID: 4173652123684933810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 168
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e7c8ccca19271d0800000000000000
+      internalID: -3354458601085436416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 162
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f752d738413831b90800000000000000
+      internalID: -7272324849144617601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 167
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09af203fcae38c000800000000000000
+      internalID: 56363907874486928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 173
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494213f04e883ed00800000000000000
+      internalID: 1000794055295181972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 165
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edc1f577f3b9df60800000000000000
+      internalID: 8059670883573288425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 163
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5915a3b4b9a8b420800000000000000
+      internalID: 2646051374653315421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 141
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6512559eb4f60eb0800000000000000
+      internalID: -4753843257256831635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 150
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf05f8fbb05e20ef0800000000000000
+      internalID: -143300399501192964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 145
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e880c4fd42f3a4a0800000000000000
+      internalID: -6583151813652870936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 135
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625fe22863115ef90800000000000000
+      internalID: -6925109926202247898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 127
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718cbf91f676872d0800000000000000
+      internalID: -3280758601664444393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 135
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672274e5235fb4c70800000000000000
+      internalID: 8956521880635253366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_16
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 135
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa9bf81fab413860800000000000000
+      internalID: 7507865269213829878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 137
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f5dd8f12baf7b30800000000000000
+      internalID: 4287333532677529476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 110
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7b6c8943584ade0800000000000000
+      internalID: -1322785929592129581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 109
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a142c6c184f8d60800000000000000
+      internalID: 7894607958714358301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 109
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b3140d67f0ce130800000000000000
+      internalID: 3597267205336677278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 118
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def30cbd8c851b290800000000000000
+      internalID: -7876416653590773779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_22
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 118
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ce1b9fb7be9b190800000000000000
+      internalID: -7946061149815837633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_23
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 98
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053c79598b0ca8fc0800000000000000
+      internalID: -3491766662056131760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_24
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 76
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f773f594b6a57f490800000000000000
+      internalID: -7712596420009707649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_default_attack_W_180.0_6_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 85
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7da8229b24c66050800000000000000
+      internalID: 5793533662073499007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      skeleton_default_attack_W_180.0_6_0: -1680653330791108100
+      skeleton_default_attack_W_180.0_6_1: 4603182946912494698
+      skeleton_default_attack_W_180.0_6_10: -4753843257256831635
+      skeleton_default_attack_W_180.0_6_11: -143300399501192964
+      skeleton_default_attack_W_180.0_6_12: -6583151813652870936
+      skeleton_default_attack_W_180.0_6_13: -6925109926202247898
+      skeleton_default_attack_W_180.0_6_14: -3280758601664444393
+      skeleton_default_attack_W_180.0_6_15: 8956521880635253366
+      skeleton_default_attack_W_180.0_6_16: 7507865269213829878
+      skeleton_default_attack_W_180.0_6_17: 4287333532677529476
+      skeleton_default_attack_W_180.0_6_18: -1322785929592129581
+      skeleton_default_attack_W_180.0_6_19: 7894607958714358301
+      skeleton_default_attack_W_180.0_6_2: -3021042792098845612
+      skeleton_default_attack_W_180.0_6_20: 3597267205336677278
+      skeleton_default_attack_W_180.0_6_21: -7876416653590773779
+      skeleton_default_attack_W_180.0_6_22: -7946061149815837633
+      skeleton_default_attack_W_180.0_6_23: -3491766662056131760
+      skeleton_default_attack_W_180.0_6_24: -7712596420009707649
+      skeleton_default_attack_W_180.0_6_25: 5793533662073499007
+      skeleton_default_attack_W_180.0_6_3: 4173652123684933810
+      skeleton_default_attack_W_180.0_6_4: -3354458601085436416
+      skeleton_default_attack_W_180.0_6_5: -7272324849144617601
+      skeleton_default_attack_W_180.0_6_6: 56363907874486928
+      skeleton_default_attack_W_180.0_6_7: 1000794055295181972
+      skeleton_default_attack_W_180.0_6_8: 8059670883573288425
+      skeleton_default_attack_W_180.0_6_9: 2646051374653315421
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

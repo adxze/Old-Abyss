@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: e97f70a95356142b6840f340d9a0a900
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2367475709988465243
+    second: fighter_default_walk_NEE_22.5_6_0
+  - first:
+      213: -1042282810083738565
+    second: fighter_default_walk_NEE_22.5_6_1
+  - first:
+      213: 6035061387556379797
+    second: fighter_default_walk_NEE_22.5_6_2
+  - first:
+      213: -1617018706346233626
+    second: fighter_default_walk_NEE_22.5_6_3
+  - first:
+      213: 2347366961795236979
+    second: fighter_default_walk_NEE_22.5_6_4
+  - first:
+      213: -7721529340169822255
+    second: fighter_default_walk_NEE_22.5_6_5
+  - first:
+      213: 1524742076486062316
+    second: fighter_default_walk_NEE_22.5_6_6
+  - first:
+      213: -352206360869118848
+    second: fighter_default_walk_NEE_22.5_6_7
+  - first:
+      213: 475462530282189967
+    second: fighter_default_walk_NEE_22.5_6_8
+  - first:
+      213: -6342531080946705566
+    second: fighter_default_walk_NEE_22.5_6_9
+  - first:
+      213: -7491489185384546298
+    second: fighter_default_walk_NEE_22.5_6_10
+  - first:
+      213: 1595033534781994767
+    second: fighter_default_walk_NEE_22.5_6_11
+  - first:
+      213: -6692013435241008308
+    second: fighter_default_walk_NEE_22.5_6_12
+  - first:
+      213: 420310894167443018
+    second: fighter_default_walk_NEE_22.5_6_13
+  - first:
+      213: -5245631877423218975
+    second: fighter_default_walk_NEE_22.5_6_14
+  - first:
+      213: 8786945282727093146
+    second: fighter_default_walk_NEE_22.5_6_15
+  - first:
+      213: 6260592471167045763
+    second: fighter_default_walk_NEE_22.5_6_16
+  - first:
+      213: 6131375013072799068
+    second: fighter_default_walk_NEE_22.5_6_17
+  - first:
+      213: -2929591540446704689
+    second: fighter_default_walk_NEE_22.5_6_18
+  - first:
+      213: -2229439616009468029
+    second: fighter_default_walk_NEE_22.5_6_19
+  - first:
+      213: -5967371112486400240
+    second: fighter_default_walk_NEE_22.5_6_20
+  - first:
+      213: 8057523294882712344
+    second: fighter_default_walk_NEE_22.5_6_21
+  - first:
+      213: 7852138115747000784
+    second: fighter_default_walk_NEE_22.5_6_22
+  - first:
+      213: 5890052812954186644
+    second: fighter_default_walk_NEE_22.5_6_23
+  - first:
+      213: -2289691386809060445
+    second: fighter_default_walk_NEE_22.5_6_24
+  - first:
+      213: 1275252396428341568
+    second: fighter_default_walk_NEE_22.5_6_25
+  - first:
+      213: -593262127238733881
+    second: fighter_default_walk_NEE_22.5_6_26
+  - first:
+      213: -1094642699888399333
+    second: fighter_default_walk_NEE_22.5_6_27
+  - first:
+      213: 6570960763433899974
+    second: fighter_default_walk_NEE_22.5_6_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a6a346d96fad020800000000000000
+      internalID: 2367475709988465243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 208
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c76757e411981f0800000000000000
+      internalID: -1042282810083738565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 27
+        width: 195
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c59fa5b58d0c350800000000000000
+      internalID: 6035061387556379797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 191
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0321dcd023f89e0800000000000000
+      internalID: -1617018706346233626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 189
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3740b4b90d5839020800000000000000
+      internalID: 2347366961795236979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 190
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfdb6cb9fd97d490800000000000000
+      internalID: -7721529340169822255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce01b0317d8f82510800000000000000
+      internalID: 1524742076486062316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_7
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 178
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c53cc4e26bc1bf0800000000000000
+      internalID: -352206360869118848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 151
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f847a75f6ae299600800000000000000
+      internalID: 475462530282189967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_9
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 143
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b1c47069dcaf7a0800000000000000
+      internalID: -6342531080946705566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 152
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600497a0742e80890800000000000000
+      internalID: -7491489185384546298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 147
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07348d8c82b22610800000000000000
+      internalID: 1595033534781994767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_12
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 150
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4371588c313123a0800000000000000
+      internalID: -6692013435241008308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 138
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46c316088e35d500800000000000000
+      internalID: 420310894167443018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_14
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 144
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee39bb9995c337b0800000000000000
+      internalID: -5245631877423218975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 130
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a932ebded2081f970800000000000000
+      internalID: 8786945282727093146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 109
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3809567bea712e650800000000000000
+      internalID: 6260592471167045763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 118
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5509e6c615071550800000000000000
+      internalID: 6131375013072799068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 116
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb4faef3000857d0800000000000000
+      internalID: -2929591540446704689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 122
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38782973b707f01e0800000000000000
+      internalID: -2229439616009468029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f0255f693af2da0800000000000000
+      internalID: -5967371112486400240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 109
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b4be00fb212df60800000000000000
+      internalID: 8057523294882712344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_22
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 113
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1b76c830668fc60800000000000000
+      internalID: 7852138115747000784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_23
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 98
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493bc6893dbadb150800000000000000
+      internalID: 5890052812954186644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 96
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a379f3a0d16930e0800000000000000
+      internalID: -2289691386809060445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_25
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 94
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041b3184c4b92b110800000000000000
+      internalID: 1275252396428341568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_26
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 73
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf1e3f0d3f44c7f0800000000000000
+      internalID: -593262127238733881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 58
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c6d2d934c0fc0f0800000000000000
+      internalID: -1094642699888399333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_default_walk_NEE_22.5_6_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 86
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7d189fffdb03b50800000000000000
+      internalID: 6570960763433899974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fighter_default_walk_NEE_22.5_6_0: 2367475709988465243
+      fighter_default_walk_NEE_22.5_6_1: -1042282810083738565
+      fighter_default_walk_NEE_22.5_6_10: -7491489185384546298
+      fighter_default_walk_NEE_22.5_6_11: 1595033534781994767
+      fighter_default_walk_NEE_22.5_6_12: -6692013435241008308
+      fighter_default_walk_NEE_22.5_6_13: 420310894167443018
+      fighter_default_walk_NEE_22.5_6_14: -5245631877423218975
+      fighter_default_walk_NEE_22.5_6_15: 8786945282727093146
+      fighter_default_walk_NEE_22.5_6_16: 6260592471167045763
+      fighter_default_walk_NEE_22.5_6_17: 6131375013072799068
+      fighter_default_walk_NEE_22.5_6_18: -2929591540446704689
+      fighter_default_walk_NEE_22.5_6_19: -2229439616009468029
+      fighter_default_walk_NEE_22.5_6_2: 6035061387556379797
+      fighter_default_walk_NEE_22.5_6_20: -5967371112486400240
+      fighter_default_walk_NEE_22.5_6_21: 8057523294882712344
+      fighter_default_walk_NEE_22.5_6_22: 7852138115747000784
+      fighter_default_walk_NEE_22.5_6_23: 5890052812954186644
+      fighter_default_walk_NEE_22.5_6_24: -2289691386809060445
+      fighter_default_walk_NEE_22.5_6_25: 1275252396428341568
+      fighter_default_walk_NEE_22.5_6_26: -593262127238733881
+      fighter_default_walk_NEE_22.5_6_27: -1094642699888399333
+      fighter_default_walk_NEE_22.5_6_28: 6570960763433899974
+      fighter_default_walk_NEE_22.5_6_3: -1617018706346233626
+      fighter_default_walk_NEE_22.5_6_4: 2347366961795236979
+      fighter_default_walk_NEE_22.5_6_5: -7721529340169822255
+      fighter_default_walk_NEE_22.5_6_6: 1524742076486062316
+      fighter_default_walk_NEE_22.5_6_7: -352206360869118848
+      fighter_default_walk_NEE_22.5_6_8: 475462530282189967
+      fighter_default_walk_NEE_22.5_6_9: -6342531080946705566
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

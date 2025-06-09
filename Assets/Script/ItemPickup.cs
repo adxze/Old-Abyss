@@ -24,14 +24,12 @@ public class ItemPickup : MonoBehaviour
     
     void Update()
     {
-        // Add bobbing motion
         if (bobHeight > 0)
         {
             float newY = startPosition.y + (Mathf.Sin(Time.time * bobSpeed) * bobHeight * 0.1f);
             transform.position = new Vector3(transform.position.x, newY, transform.position.z);
         }
         
-        // Add rotation
         if (rotate)
         {
             transform.Rotate(Vector3.up, rotateSpeed * Time.deltaTime);
@@ -42,11 +40,9 @@ public class ItemPickup : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            // Handle pickup based on item type
             switch (itemType)
             {
                 case ItemType.HealthPotion:
-                    // Heal player
                     var playerHealth = other.GetComponent<PlayerHealth>();
                     if (playerHealth != null)
                     {
@@ -55,17 +51,14 @@ public class ItemPickup : MonoBehaviour
                     break;
                     
                 case ItemType.Coin:
-                    // Give player coins/score
                     Debug.Log($"Collected {value} coins");
                     break;
                     
                 default:
-                    // Generic item collection
                     Debug.Log($"Collected {itemName}");
                     break;
             }
             
-            // Destroy the item
             Destroy(gameObject);
         }
     }

@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: c53d1b2adebbb4df7a9e66b450eed1fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4319488620765053461
+    second: brazier_break_E_0.0_3_0
+  - first:
+      213: -1099146398379251384
+    second: brazier_break_E_0.0_3_1
+  - first:
+      213: 1047539623189374776
+    second: brazier_break_E_0.0_3_2
+  - first:
+      213: -6185460285494683524
+    second: brazier_break_E_0.0_3_3
+  - first:
+      213: 5048668120582550117
+    second: brazier_break_E_0.0_3_4
+  - first:
+      213: 3331307279156218506
+    second: brazier_break_E_0.0_3_5
+  - first:
+      213: -6852363065746775882
+    second: brazier_break_E_0.0_3_6
+  - first:
+      213: -3459363019680639068
+    second: brazier_break_E_0.0_3_7
+  - first:
+      213: -8570382712588111096
+    second: brazier_break_E_0.0_3_8
+  - first:
+      213: -5915346991629963715
+    second: brazier_break_E_0.0_3_9
+  - first:
+      213: -2429612987758667463
+    second: brazier_break_E_0.0_3_10
+  - first:
+      213: 534356504520556173
+    second: brazier_break_E_0.0_3_11
+  - first:
+      213: 5186765628356374952
+    second: brazier_break_E_0.0_3_12
+  - first:
+      213: -7383528687496092238
+    second: brazier_break_E_0.0_3_13
+  - first:
+      213: 6085316345039322544
+    second: brazier_break_E_0.0_3_14
+  - first:
+      213: -2463421379933287268
+    second: brazier_break_E_0.0_3_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brazier_break_E_0.0_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedf4fb2cf71e04c0800000000000000
+      internalID: -4319488620765053461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_break_E_0.0_3_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 194
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84964789c2c0fb0f0800000000000000
+      internalID: -1099146398379251384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_break_E_0.0_3_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 180
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8376958bcbb998e00800000000000000
+      internalID: 1047539623189374776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_break_E_0.0_3_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 176
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c789dce64a4d82aa0800000000000000
+      internalID: -6185460285494683524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_break_E_0.0_3_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 180
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562792c18e8701640800000000000000
+      internalID: 5048668120582550117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_break_E_0.0_3_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 156
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a87c3025e2b3e20800000000000000
+      internalID: 3331307279156218506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_break_E_0.0_3_6
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0282ad81487e0a0800000000000000
+      internalID: -6852363065746775882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_break_E_0.0_3_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 145
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a710de79afddffc0800000000000000
+      internalID: -3459363019680639068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_break_E_0.0_3_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 152
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803790ba452ef0980800000000000000
+      internalID: -8570382712588111096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_break_E_0.0_3_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 142
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e68b0804778eda0800000000000000
+      internalID: -5915346991629963715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_break_E_0.0_3_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 139
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93918fa3cd7484ed0800000000000000
+      internalID: -2429612987758667463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_break_E_0.0_3_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 119
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8efd53e86a6a6700800000000000000
+      internalID: 534356504520556173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_break_E_0.0_3_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 126
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1336bbbd71bf740800000000000000
+      internalID: 5186765628356374952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_break_E_0.0_3_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 109
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5a3e047cf688990800000000000000
+      internalID: -7383528687496092238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_break_E_0.0_3_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 77
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd72f379f2637450800000000000000
+      internalID: 6085316345039322544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brazier_break_E_0.0_3_15
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 83
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c49f48e4b20ddd0800000000000000
+      internalID: -2463421379933287268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      brazier_break_E_0.0_3_0: -4319488620765053461
+      brazier_break_E_0.0_3_1: -1099146398379251384
+      brazier_break_E_0.0_3_10: -2429612987758667463
+      brazier_break_E_0.0_3_11: 534356504520556173
+      brazier_break_E_0.0_3_12: 5186765628356374952
+      brazier_break_E_0.0_3_13: -7383528687496092238
+      brazier_break_E_0.0_3_14: 6085316345039322544
+      brazier_break_E_0.0_3_15: -2463421379933287268
+      brazier_break_E_0.0_3_2: 1047539623189374776
+      brazier_break_E_0.0_3_3: -6185460285494683524
+      brazier_break_E_0.0_3_4: 5048668120582550117
+      brazier_break_E_0.0_3_5: 3331307279156218506
+      brazier_break_E_0.0_3_6: -6852363065746775882
+      brazier_break_E_0.0_3_7: -3459363019680639068
+      brazier_break_E_0.0_3_8: -8570382712588111096
+      brazier_break_E_0.0_3_9: -5915346991629963715
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

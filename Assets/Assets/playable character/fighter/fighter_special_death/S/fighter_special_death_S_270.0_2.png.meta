@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 90607c66c4ff64769babe283b8abeb6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6939830569956373531
+    second: fighter_special_death_S_270.0_2_0
+  - first:
+      213: 9189920114649072961
+    second: fighter_special_death_S_270.0_2_1
+  - first:
+      213: -5448792409906579164
+    second: fighter_special_death_S_270.0_2_2
+  - first:
+      213: 2268978167699403971
+    second: fighter_special_death_S_270.0_2_3
+  - first:
+      213: 1766138987101362386
+    second: fighter_special_death_S_270.0_2_4
+  - first:
+      213: -7322283277575591159
+    second: fighter_special_death_S_270.0_2_5
+  - first:
+      213: 1797780786366795223
+    second: fighter_special_death_S_270.0_2_6
+  - first:
+      213: -125763404741585945
+    second: fighter_special_death_S_270.0_2_7
+  - first:
+      213: -3526397489908365355
+    second: fighter_special_death_S_270.0_2_8
+  - first:
+      213: -5504136870981508474
+    second: fighter_special_death_S_270.0_2_9
+  - first:
+      213: 1132480963328932514
+    second: fighter_special_death_S_270.0_2_10
+  - first:
+      213: 2074693577378932073
+    second: fighter_special_death_S_270.0_2_11
+  - first:
+      213: -5561131896307727269
+    second: fighter_special_death_S_270.0_2_12
+  - first:
+      213: 2109505913032243355
+    second: fighter_special_death_S_270.0_2_13
+  - first:
+      213: -5849768001011015058
+    second: fighter_special_death_S_270.0_2_14
+  - first:
+      213: -8653262564542865575
+    second: fighter_special_death_S_270.0_2_15
+  - first:
+      213: 2816237660727342459
+    second: fighter_special_death_S_270.0_2_16
+  - first:
+      213: 7974676198681948237
+    second: fighter_special_death_S_270.0_2_17
+  - first:
+      213: -2060067670442147973
+    second: fighter_special_death_S_270.0_2_18
+  - first:
+      213: -2604737255347461268
+    second: fighter_special_death_S_270.0_2_19
+  - first:
+      213: 2555560349431296296
+    second: fighter_special_death_S_270.0_2_20
+  - first:
+      213: -530141127287129456
+    second: fighter_special_death_S_270.0_2_21
+  - first:
+      213: 5157137839679212849
+    second: fighter_special_death_S_270.0_2_22
+  - first:
+      213: -958394069138124431
+    second: fighter_special_death_S_270.0_2_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1475a3722b3f4060800000000000000
+      internalID: 6939830569956373531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 18
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14500eb67a7298f70800000000000000
+      internalID: 9189920114649072961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 128
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4297ca01c200264b0800000000000000
+      internalID: -5448792409906579164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 147
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4f6d83f970d7f10800000000000000
+      internalID: 2268978167699403971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 130
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d815262d06928810800000000000000
+      internalID: 1766138987101362386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 97
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90be2577726026a90800000000000000
+      internalID: -7322283277575591159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_6
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 161
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd4a63a91003f810800000000000000
+      internalID: 1797780786366795223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 119
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e352a689d2314ef0800000000000000
+      internalID: -125763404741585945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 192
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7ce25aa28bf0fc0800000000000000
+      internalID: -3526397489908365355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 194
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68264029da06d93b0800000000000000
+      internalID: -5504136870981508474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 77
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aafc1e9f6167bf00800000000000000
+      internalID: 1132480963328932514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_11
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 190
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965a47101dacacc10800000000000000
+      internalID: 2074693577378932073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 71
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54cb732104e2d2b0800000000000000
+      internalID: -5561131896307727269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_13
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 193
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b987fd58378764d10800000000000000
+      internalID: 2109505913032243355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_14
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 75
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62aa491ff271dea0800000000000000
+      internalID: -5849768001011015058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_15
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 151
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f9c346b8f69e780800000000000000
+      internalID: -8653262564542865575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_16
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 145
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75faba3b39451720800000000000000
+      internalID: 2816237660727342459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 138
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40333540cdbbae60800000000000000
+      internalID: 7974676198681948237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 119
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f77025e5b2963e0800000000000000
+      internalID: -2060067670442147973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_19
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63e9c9444d1adbd0800000000000000
+      internalID: -2604737255347461268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 143
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821fced099c277320800000000000000
+      internalID: 2555560349431296296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_21
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 130
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ab93b147f84a8f0800000000000000
+      internalID: -530141127287129456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_22
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 126
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d0ecf9a85d19740800000000000000
+      internalID: 5157137839679212849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_special_death_S_270.0_2_23
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 106
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1715e220ca913b2f0800000000000000
+      internalID: -958394069138124431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fighter_special_death_S_270.0_2_0: 6939830569956373531
+      fighter_special_death_S_270.0_2_1: 9189920114649072961
+      fighter_special_death_S_270.0_2_10: 1132480963328932514
+      fighter_special_death_S_270.0_2_11: 2074693577378932073
+      fighter_special_death_S_270.0_2_12: -5561131896307727269
+      fighter_special_death_S_270.0_2_13: 2109505913032243355
+      fighter_special_death_S_270.0_2_14: -5849768001011015058
+      fighter_special_death_S_270.0_2_15: -8653262564542865575
+      fighter_special_death_S_270.0_2_16: 2816237660727342459
+      fighter_special_death_S_270.0_2_17: 7974676198681948237
+      fighter_special_death_S_270.0_2_18: -2060067670442147973
+      fighter_special_death_S_270.0_2_19: -2604737255347461268
+      fighter_special_death_S_270.0_2_2: -5448792409906579164
+      fighter_special_death_S_270.0_2_20: 2555560349431296296
+      fighter_special_death_S_270.0_2_21: -530141127287129456
+      fighter_special_death_S_270.0_2_22: 5157137839679212849
+      fighter_special_death_S_270.0_2_23: -958394069138124431
+      fighter_special_death_S_270.0_2_3: 2268978167699403971
+      fighter_special_death_S_270.0_2_4: 1766138987101362386
+      fighter_special_death_S_270.0_2_5: -7322283277575591159
+      fighter_special_death_S_270.0_2_6: 1797780786366795223
+      fighter_special_death_S_270.0_2_7: -125763404741585945
+      fighter_special_death_S_270.0_2_8: -3526397489908365355
+      fighter_special_death_S_270.0_2_9: -5504136870981508474
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

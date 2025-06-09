@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 4c1ae6cdf71364ce29ba5daa7f888b91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4650063612242358431
+    second: demonlord_special_death_NEE_22.5_4_0
+  - first:
+      213: 5697427962477766491
+    second: demonlord_special_death_NEE_22.5_4_1
+  - first:
+      213: 520590253116651830
+    second: demonlord_special_death_NEE_22.5_4_2
+  - first:
+      213: 5609544055705137544
+    second: demonlord_special_death_NEE_22.5_4_3
+  - first:
+      213: 1246560074966903980
+    second: demonlord_special_death_NEE_22.5_4_4
+  - first:
+      213: 6919962139226429445
+    second: demonlord_special_death_NEE_22.5_4_5
+  - first:
+      213: -2261617055692788455
+    second: demonlord_special_death_NEE_22.5_4_6
+  - first:
+      213: 4817022869976039383
+    second: demonlord_special_death_NEE_22.5_4_7
+  - first:
+      213: 5053042036254210327
+    second: demonlord_special_death_NEE_22.5_4_8
+  - first:
+      213: -3402484254222492836
+    second: demonlord_special_death_NEE_22.5_4_9
+  - first:
+      213: -1055176027830830388
+    second: demonlord_special_death_NEE_22.5_4_10
+  - first:
+      213: 8479882674621524173
+    second: demonlord_special_death_NEE_22.5_4_11
+  - first:
+      213: -6044951686041101165
+    second: demonlord_special_death_NEE_22.5_4_12
+  - first:
+      213: -2471320832746483186
+    second: demonlord_special_death_NEE_22.5_4_13
+  - first:
+      213: -8775325305677813628
+    second: demonlord_special_death_NEE_22.5_4_14
+  - first:
+      213: -9134795105031271010
+    second: demonlord_special_death_NEE_22.5_4_15
+  - first:
+      213: 3920156841308982707
+    second: demonlord_special_death_NEE_22.5_4_16
+  - first:
+      213: -4581367701443698326
+    second: demonlord_special_death_NEE_22.5_4_17
+  - first:
+      213: -5330805184178002517
+    second: demonlord_special_death_NEE_22.5_4_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: demonlord_special_death_NEE_22.5_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90fcaed738588040800000000000000
+      internalID: 4650063612242358431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_special_death_NEE_22.5_4_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 250
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b576ddcab84511f40800000000000000
+      internalID: 5697427962477766491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_special_death_NEE_22.5_4_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 242
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6397c86b312893700800000000000000
+      internalID: 520590253116651830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_special_death_NEE_22.5_4_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 239
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8817538199a19dd40800000000000000
+      internalID: 5609544055705137544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_special_death_NEE_22.5_4_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 249
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac269b98cbac4110800000000000000
+      internalID: 1246560074966903980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_special_death_NEE_22.5_4_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 247
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5085ebfe6e4a80060800000000000000
+      internalID: 6919962139226429445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_special_death_NEE_22.5_4_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 244
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d6779354f1d90e0800000000000000
+      internalID: -2261617055692788455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_special_death_NEE_22.5_4_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 236
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfbadf47c089d240800000000000000
+      internalID: 4817022869976039383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_special_death_NEE_22.5_4_8
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 247
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7197c06b5f2002640800000000000000
+      internalID: 5053042036254210327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_special_death_NEE_22.5_4_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 243
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b55311992f7c0d0800000000000000
+      internalID: -3402484254222492836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_special_death_NEE_22.5_4_10
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 249
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccab2a54ef24b51f0800000000000000
+      internalID: -1055176027830830388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_special_death_NEE_22.5_4_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 238
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc82ecd3d589ea570800000000000000
+      internalID: 8479882674621524173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_special_death_NEE_22.5_4_12
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 247
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c1f1518740c1ca0800000000000000
+      internalID: -6044951686041101165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_special_death_NEE_22.5_4_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 241
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e029f16dbca14bdd0800000000000000
+      internalID: -2471320832746483186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_special_death_NEE_22.5_4_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 239
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488e39ec028c73680800000000000000
+      internalID: -8775325305677813628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_special_death_NEE_22.5_4_15
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 233
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d42ac0040ba3180800000000000000
+      internalID: -9134795105031271010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_special_death_NEE_22.5_4_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd0a0690e1376630800000000000000
+      internalID: 3920156841308982707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_special_death_NEE_22.5_4_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 239
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6120024956bb60c0800000000000000
+      internalID: -4581367701443698326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonlord_special_death_NEE_22.5_4_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba56246cdec2506b0800000000000000
+      internalID: -5330805184178002517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      demonlord_special_death_NEE_22.5_4_0: 4650063612242358431
+      demonlord_special_death_NEE_22.5_4_1: 5697427962477766491
+      demonlord_special_death_NEE_22.5_4_10: -1055176027830830388
+      demonlord_special_death_NEE_22.5_4_11: 8479882674621524173
+      demonlord_special_death_NEE_22.5_4_12: -6044951686041101165
+      demonlord_special_death_NEE_22.5_4_13: -2471320832746483186
+      demonlord_special_death_NEE_22.5_4_14: -8775325305677813628
+      demonlord_special_death_NEE_22.5_4_15: -9134795105031271010
+      demonlord_special_death_NEE_22.5_4_16: 3920156841308982707
+      demonlord_special_death_NEE_22.5_4_17: -4581367701443698326
+      demonlord_special_death_NEE_22.5_4_18: -5330805184178002517
+      demonlord_special_death_NEE_22.5_4_2: 520590253116651830
+      demonlord_special_death_NEE_22.5_4_3: 5609544055705137544
+      demonlord_special_death_NEE_22.5_4_4: 1246560074966903980
+      demonlord_special_death_NEE_22.5_4_5: 6919962139226429445
+      demonlord_special_death_NEE_22.5_4_6: -2261617055692788455
+      demonlord_special_death_NEE_22.5_4_7: 4817022869976039383
+      demonlord_special_death_NEE_22.5_4_8: 5053042036254210327
+      demonlord_special_death_NEE_22.5_4_9: -3402484254222492836
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

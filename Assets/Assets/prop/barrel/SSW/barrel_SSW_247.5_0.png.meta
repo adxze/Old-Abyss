@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: b15d4ec27de8f4d1cb8da168d4507458
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7908089147008161823
+    second: barrel_SSW_247.5_0_0
+  - first:
+      213: -2083783923717358708
+    second: barrel_SSW_247.5_0_1
+  - first:
+      213: 1240096819460826146
+    second: barrel_SSW_247.5_0_2
+  - first:
+      213: -5032920402581761050
+    second: barrel_SSW_247.5_0_3
+  - first:
+      213: 6570538466645331553
+    second: barrel_SSW_247.5_0_4
+  - first:
+      213: 1115169476661445244
+    second: barrel_SSW_247.5_0_5
+  - first:
+      213: -8311184518958924548
+    second: barrel_SSW_247.5_0_6
+  - first:
+      213: 923151577940228420
+    second: barrel_SSW_247.5_0_7
+  - first:
+      213: -152016573037995007
+    second: barrel_SSW_247.5_0_8
+  - first:
+      213: 1859054701588641345
+    second: barrel_SSW_247.5_0_9
+  - first:
+      213: -3513212239551368929
+    second: barrel_SSW_247.5_0_10
+  - first:
+      213: -8419959769183013171
+    second: barrel_SSW_247.5_0_11
+  - first:
+      213: 5676236166574042358
+    second: barrel_SSW_247.5_0_12
+  - first:
+      213: 4774930754166439974
+    second: barrel_SSW_247.5_0_13
+  - first:
+      213: 5517795587100907024
+    second: barrel_SSW_247.5_0_14
+  - first:
+      213: 7240302377448778770
+    second: barrel_SSW_247.5_0_15
+  - first:
+      213: -5110145298329747296
+    second: barrel_SSW_247.5_0_16
+  - first:
+      213: 1956714964906877902
+    second: barrel_SSW_247.5_0_17
+  - first:
+      213: 9163632611996769123
+    second: barrel_SSW_247.5_0_18
+  - first:
+      213: 6967759204405526156
+    second: barrel_SSW_247.5_0_19
+  - first:
+      213: -2700503711106587111
+    second: barrel_SSW_247.5_0_20
+  - first:
+      213: -9007111677846713217
+    second: barrel_SSW_247.5_0_21
+  - first:
+      213: 6082780687783515222
+    second: barrel_SSW_247.5_0_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: barrel_SSW_247.5_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f181b8b2e2d2fbd60800000000000000
+      internalID: 7908089147008161823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SSW_247.5_0_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b382ecf89e413e0800000000000000
+      internalID: -2083783923717358708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SSW_247.5_0_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 156
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224ed0bac75b53110800000000000000
+      internalID: 1240096819460826146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SSW_247.5_0_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 117
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e35c453f89772ab0800000000000000
+      internalID: -5032920402581761050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SSW_247.5_0_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 135
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e4f675ced3f2b50800000000000000
+      internalID: 6570538466645331553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SSW_247.5_0_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 108
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7283c80bb0e97f00800000000000000
+      internalID: 1115169476661445244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SSW_247.5_0_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 118
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc3abce6bdb8ac80800000000000000
+      internalID: -8311184518958924548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SSW_247.5_0_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 44
+        width: 146
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449f7f41871bfcc00800000000000000
+      internalID: 923151577940228420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SSW_247.5_0_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 140
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c19147bbde3edf0800000000000000
+      internalID: -152016573037995007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SSW_247.5_0_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 128
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146f532c660bcc910800000000000000
+      internalID: 1859054701588641345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SSW_247.5_0_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 112
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f117cf8f4109e3fc0800000000000000
+      internalID: -3513212239551368929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SSW_247.5_0_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 156
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc634c6633b462b80800000000000000
+      internalID: -8419959769183013171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SSW_247.5_0_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 102
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fceed138ba06ce40800000000000000
+      internalID: 5676236166574042358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SSW_247.5_0_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 170
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620cd25e836f34240800000000000000
+      internalID: 4774930754166439974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SSW_247.5_0_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 81
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0161e581ad5239c40800000000000000
+      internalID: 5517795587100907024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SSW_247.5_0_15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c204ac6a8ba7460800000000000000
+      internalID: 7240302377448778770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SSW_247.5_0_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 179
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a04c660ded1519b0800000000000000
+      internalID: -5110145298329747296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SSW_247.5_0_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 83
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec327f9b4e5a72b10800000000000000
+      internalID: 1956714964906877902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SSW_247.5_0_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 137
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b90424f43cb2f70800000000000000
+      internalID: 9163632611996769123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SSW_247.5_0_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 100
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ebc03641472b060800000000000000
+      internalID: 6967759204405526156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SSW_247.5_0_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 129
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9162ed0ce22e58ad0800000000000000
+      internalID: -2700503711106587111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SSW_247.5_0_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 145
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c8ca596af400380800000000000000
+      internalID: -9007111677846713217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_SSW_247.5_0_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 130
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65451fdbec06a6450800000000000000
+      internalID: 6082780687783515222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      barrel_SSW_247.5_0_0: 7908089147008161823
+      barrel_SSW_247.5_0_1: -2083783923717358708
+      barrel_SSW_247.5_0_10: -3513212239551368929
+      barrel_SSW_247.5_0_11: -8419959769183013171
+      barrel_SSW_247.5_0_12: 5676236166574042358
+      barrel_SSW_247.5_0_13: 4774930754166439974
+      barrel_SSW_247.5_0_14: 5517795587100907024
+      barrel_SSW_247.5_0_15: 7240302377448778770
+      barrel_SSW_247.5_0_16: -5110145298329747296
+      barrel_SSW_247.5_0_17: 1956714964906877902
+      barrel_SSW_247.5_0_18: 9163632611996769123
+      barrel_SSW_247.5_0_19: 6967759204405526156
+      barrel_SSW_247.5_0_2: 1240096819460826146
+      barrel_SSW_247.5_0_20: -2700503711106587111
+      barrel_SSW_247.5_0_21: -9007111677846713217
+      barrel_SSW_247.5_0_22: 6082780687783515222
+      barrel_SSW_247.5_0_3: -5032920402581761050
+      barrel_SSW_247.5_0_4: 6570538466645331553
+      barrel_SSW_247.5_0_5: 1115169476661445244
+      barrel_SSW_247.5_0_6: -8311184518958924548
+      barrel_SSW_247.5_0_7: 923151577940228420
+      barrel_SSW_247.5_0_8: -152016573037995007
+      barrel_SSW_247.5_0_9: 1859054701588641345
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

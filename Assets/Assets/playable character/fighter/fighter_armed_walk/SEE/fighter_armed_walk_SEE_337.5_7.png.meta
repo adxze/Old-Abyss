@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 40a3bfac529e44d97ac0bd3647295aff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2900461287566768190
+    second: fighter_armed_walk_SEE_337.5_7_0
+  - first:
+      213: 8536233964068521632
+    second: fighter_armed_walk_SEE_337.5_7_1
+  - first:
+      213: 6082937485106655430
+    second: fighter_armed_walk_SEE_337.5_7_2
+  - first:
+      213: 1516051841000857775
+    second: fighter_armed_walk_SEE_337.5_7_3
+  - first:
+      213: 4028005040626528183
+    second: fighter_armed_walk_SEE_337.5_7_4
+  - first:
+      213: 8102735411469428581
+    second: fighter_armed_walk_SEE_337.5_7_5
+  - first:
+      213: -6399290924532679258
+    second: fighter_armed_walk_SEE_337.5_7_6
+  - first:
+      213: -3716727689779877748
+    second: fighter_armed_walk_SEE_337.5_7_7
+  - first:
+      213: 5632506217224838902
+    second: fighter_armed_walk_SEE_337.5_7_8
+  - first:
+      213: 8172635816033239422
+    second: fighter_armed_walk_SEE_337.5_7_9
+  - first:
+      213: 2452398895716630624
+    second: fighter_armed_walk_SEE_337.5_7_10
+  - first:
+      213: 4143945488073441652
+    second: fighter_armed_walk_SEE_337.5_7_11
+  - first:
+      213: 3415555091967567603
+    second: fighter_armed_walk_SEE_337.5_7_12
+  - first:
+      213: -6824675692026598955
+    second: fighter_armed_walk_SEE_337.5_7_13
+  - first:
+      213: 2206798159348949274
+    second: fighter_armed_walk_SEE_337.5_7_14
+  - first:
+      213: 3716254572846920665
+    second: fighter_armed_walk_SEE_337.5_7_15
+  - first:
+      213: 2853300794944860500
+    second: fighter_armed_walk_SEE_337.5_7_16
+  - first:
+      213: -4232218945539276054
+    second: fighter_armed_walk_SEE_337.5_7_17
+  - first:
+      213: -4992213921171770438
+    second: fighter_armed_walk_SEE_337.5_7_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fighter_armed_walk_SEE_337.5_7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38703a7c22804820800000000000000
+      internalID: 2900461287566768190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_walk_SEE_337.5_7_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 127
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6cdeb309bc67670800000000000000
+      internalID: 8536233964068521632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_walk_SEE_337.5_7_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 128
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0b0b6f96fea6450800000000000000
+      internalID: 6082937485106655430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_walk_SEE_337.5_7_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 233
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0eee3fd191a0510800000000000000
+      internalID: 1516051841000857775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_walk_SEE_337.5_7_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfe6004e3956e730800000000000000
+      internalID: 4028005040626528183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_walk_SEE_337.5_7_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 138
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5672d953de2b27070800000000000000
+      internalID: 8102735411469428581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_walk_SEE_337.5_7_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 151
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad39dc1fc62137a0800000000000000
+      internalID: -6399290924532679258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_walk_SEE_337.5_7_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 120
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88efc3bbd78b6cc0800000000000000
+      internalID: -3716727689779877748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_walk_SEE_337.5_7_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 125
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe9dd0ff8eaa2e40800000000000000
+      internalID: 5632506217224838902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_walk_SEE_337.5_7_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 183
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71cb4569f80b6170800000000000000
+      internalID: 8172635816033239422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_walk_SEE_337.5_7_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 206
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06000c26dcba80220800000000000000
+      internalID: 2452398895716630624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_walk_SEE_337.5_7_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 73
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47143314770428930800000000000000
+      internalID: 4143945488073441652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_walk_SEE_337.5_7_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 194
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6e08f724d766f20800000000000000
+      internalID: 3415555091967567603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_walk_SEE_337.5_7_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 76
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9e285ed91e941a0800000000000000
+      internalID: -6824675692026598955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_walk_SEE_337.5_7_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 155
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11eafadb3f10ae10800000000000000
+      internalID: 2206798159348949274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_walk_SEE_337.5_7_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 97
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3367d28d9c29330800000000000000
+      internalID: 3716254572846920665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_walk_SEE_337.5_7_16
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 110
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4513700a4f5f89720800000000000000
+      internalID: 2853300794944860500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_walk_SEE_337.5_7_17
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 124
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae20473da432445c0800000000000000
+      internalID: -4232218945539276054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fighter_armed_walk_SEE_337.5_7_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 112
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3fbc973e718bab0800000000000000
+      internalID: -4992213921171770438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fighter_armed_walk_SEE_337.5_7_0: 2900461287566768190
+      fighter_armed_walk_SEE_337.5_7_1: 8536233964068521632
+      fighter_armed_walk_SEE_337.5_7_10: 2452398895716630624
+      fighter_armed_walk_SEE_337.5_7_11: 4143945488073441652
+      fighter_armed_walk_SEE_337.5_7_12: 3415555091967567603
+      fighter_armed_walk_SEE_337.5_7_13: -6824675692026598955
+      fighter_armed_walk_SEE_337.5_7_14: 2206798159348949274
+      fighter_armed_walk_SEE_337.5_7_15: 3716254572846920665
+      fighter_armed_walk_SEE_337.5_7_16: 2853300794944860500
+      fighter_armed_walk_SEE_337.5_7_17: -4232218945539276054
+      fighter_armed_walk_SEE_337.5_7_18: -4992213921171770438
+      fighter_armed_walk_SEE_337.5_7_2: 6082937485106655430
+      fighter_armed_walk_SEE_337.5_7_3: 1516051841000857775
+      fighter_armed_walk_SEE_337.5_7_4: 4028005040626528183
+      fighter_armed_walk_SEE_337.5_7_5: 8102735411469428581
+      fighter_armed_walk_SEE_337.5_7_6: -6399290924532679258
+      fighter_armed_walk_SEE_337.5_7_7: -3716727689779877748
+      fighter_armed_walk_SEE_337.5_7_8: 5632506217224838902
+      fighter_armed_walk_SEE_337.5_7_9: 8172635816033239422
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
