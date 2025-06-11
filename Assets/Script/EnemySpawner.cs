@@ -13,9 +13,13 @@ public class EnemySpawner : MonoBehaviour
     
     [Header("Enemy Variations")]
     public bool randomizeStats = true;
-    public float healthVariation = 0.2f;  // ±20% health variation
-    public float speedVariation = 0.3f;   // ±30% speed variation
-    public float damageVariation = 0.15f; // ±15% damage variation
+    public float healthVariation = 0.2f;
+    public float speedVariation = 0.3f;
+    public float damageVariation = 0.15f;
+    
+    [Header("Drop Assignment")]
+    public GameObject[] itemsToAssign;
+    public float dropChanceToAssign = 0.4f;
     
     private bool isSpawning = false;
     private int currentEnemyCount = 0;
@@ -72,16 +76,25 @@ public class EnemySpawner : MonoBehaviour
         
         EnemyController enemy = enemyObj.GetComponent<EnemyController>();
         
-        if (enemy != null && randomizeStats)
+        if (enemy != null)
         {
-            float healthMod = 1 + Random.Range(-healthVariation, healthVariation);
-            float speedMod = 1 + Random.Range(-speedVariation, speedVariation);
-            float damageMod = 1 + Random.Range(-damageVariation, damageVariation);
+            if (itemsToAssign != null && itemsToAssign.Length > 0)
+            {
+                enemy.possibleDrops = itemsToAssign;
+                enemy.dropChance = dropChanceToAssign;
+            }
             
-            enemy.maxHealth *= healthMod;
-            enemy.currentHealth = enemy.maxHealth;
-            enemy.moveSpeed *= speedMod;
-            enemy.attackDamage *= damageMod;
+            if (randomizeStats)
+            {
+                float healthMod = 1 + Random.Range(-healthVariation, healthVariation);
+                float speedMod = 1 + Random.Range(-speedVariation, speedVariation);
+                float damageMod = 1 + Random.Range(-damageVariation, damageVariation);
+                
+                enemy.maxHealth *= healthMod;
+                enemy.currentHealth = enemy.maxHealth;
+                enemy.moveSpeed *= speedMod;
+                enemy.attackDamage *= damageMod;
+            }
         }
         
         StartCoroutine(CheckEnemyDestruction(enemyObj));
@@ -111,5 +124,9 @@ public class EnemySpawner : MonoBehaviour
                 }
             }
         }
+    }
+    public void OnEnemyDied()
+    {
+        currentEnemyCount = Mathf.Max(0, currentEnemyCount - 1);
     }
 }

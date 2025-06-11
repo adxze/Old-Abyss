@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 using System.Collections;
 
 public class PlayerHealth : MonoBehaviour
@@ -11,8 +12,13 @@ public class PlayerHealth : MonoBehaviour
     public float knockbackForce = 7f;
     
     [Header("UI")]
-    public Image healthBarFill;
-    public Text healthText;
+    public Slider healthBarSlider;
+    public TextMeshProUGUI healthText;
+    
+    [Header("Death Screen")]
+    public GameObject deathScreen;
+    public Button restartButton;
+    public float deathDelay = 1f;
     
     [Header("Effects")]
     public float hitFlashDuration = 0.1f;
@@ -20,18 +26,18 @@ public class PlayerHealth : MonoBehaviour
     public GameObject hitParticlePrefab;
     
     private SpriteRenderer spriteRenderer;
-    private Animator animator;
     private DirectionalMovement2D movement;
     private Color originalColor;
     private bool isInvincible = false;
     private bool isDead = false;
+    private GameManager gameManager;
     
     void Awake()
     {
         currentHealth = maxHealth;
         spriteRenderer = GetComponentInChildren<SpriteRenderer>();
-        animator = GetComponent<Animator>();
         movement = GetComponent<DirectionalMovement2D>();
+        gameManager = FindObjectOfType<GameManager>();
         
         if (spriteRenderer != null)
         {
@@ -42,6 +48,16 @@ public class PlayerHealth : MonoBehaviour
     void Start()
     {
         UpdateHealthUI();
+        
+        if (restartButton != null)
+        {
+            restartButton.onClick.AddListener(RestartGame);
+        }
+        
+        if (deathScreen != null)
+        {
+            deathScreen.SetActive(false);
+        }
     }
     
     public void TakeDamage(float damage)
@@ -49,7 +65,6 @@ public class PlayerHealth : MonoBehaviour
         if (isInvincible || isDead) return;
         
         currentHealth -= damage;
-        
         currentHealth = Mathf.Max(0, currentHealth);
         
         UpdateHealthUI();
@@ -80,7 +95,6 @@ public class PlayerHealth : MonoBehaviour
                 }
             }
             
-            // If we found an enemy, apply knockback
             if (knockbackDir != Vector2.zero)
             {
                 Rigidbody2D rb = GetComponent<Rigidbody2D>();
@@ -90,11 +104,6 @@ public class PlayerHealth : MonoBehaviour
                     rb.AddForce(knockbackDir * knockbackForce, ForceMode2D.Impulse);
                 }
             }
-        }
-        
-        if (animator != null)
-        {
-            animator.SetTrigger("Hit");
         }
         
         if (currentHealth <= 0)
@@ -109,25 +118,22 @@ public class PlayerHealth : MonoBehaviour
     
     void UpdateHealthUI()
     {
-        if (healthBarFill != null)
+        if (healthBarSlider != null)
         {
-            healthBarFill.fillAmount = currentHealth / maxHealth;
+            healthBarSlider.value = currentHealth / maxHealth;
         }
         
         if (healthText != null)
         {
-            healthText.text = $"{currentHealth}/{maxHealth}";
+            healthText.text = $"{(int)currentHealth}/{(int)maxHealth}";
         }
     }
     
     void Die()
     {
-        isDead = true;
+        if (isDead) return;
         
-        if (animator != null)
-        {
-            animator.SetTrigger("Death");
-        }
+        isDead = true;
         
         if (movement != null)
         {
@@ -140,6 +146,35 @@ public class PlayerHealth : MonoBehaviour
             col.enabled = false;
         }
         
+        StartCoroutine(DeathSequence());
+    }
+    
+    IEnumerator DeathSequence()
+    {
+        yield return new WaitForSeconds(deathDelay);
+        
+        if (spriteRenderer != null)
+        {
+            spriteRenderer.enabled = false;
+        }
+        
+        if (gameManager != null)
+        {
+            gameManager.GameOver();
+        }
+        
+        if (deathScreen != null)
+        {
+            deathScreen.SetActive(true);
+        }
+        
+        Time.timeScale = 0f;
+    }
+    
+    void RestartGame()
+    {
+        Time.timeScale = 1f;
+        UnityEngine.SceneManagement.SceneManager.LoadScene(UnityEngine.SceneManagement.SceneManager.GetActiveScene().name);
     }
     
     IEnumerator InvincibilityCoroutine()
@@ -169,9 +204,12 @@ public class PlayerHealth : MonoBehaviour
     
     IEnumerator FlashSprite()
     {
-        spriteRenderer.color = hitFlashColor;
-        yield return new WaitForSeconds(hitFlashDuration);
-        spriteRenderer.color = originalColor;
+        if (spriteRenderer != null)
+        {
+            spriteRenderer.color = hitFlashColor;
+            yield return new WaitForSeconds(hitFlashDuration);
+            spriteRenderer.color = originalColor;
+        }
     }
     
     public void Heal(float amount)

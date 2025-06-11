@@ -8,8 +8,8 @@ public class EnemyController : MonoBehaviour
     public float maxHealth = 100f;
     public float currentHealth;
     public float moveSpeed = 3f;
-    public float detectionRadius = 10f;
     public float attackRange = 1.5f;
+    public float stopDistance = 1.2f;
     public float attackDamage = 10f;
     public float attackCooldown = 1.5f;
     public float knockbackForce = 2f;
@@ -17,28 +17,29 @@ public class EnemyController : MonoBehaviour
 
     [Header("Targeting")]
     public Transform playerTarget;
-    public LayerMask playerLayer;
     public bool autoDetectPlayer = true;
 
     [Header("Animation")]
     public Animator animator;
     public SpriteRenderer spriteRenderer;
+    
     [Header("UI")]
     public HealthBar healthBarComponent;
-    
     
     [Header("Item Drops")]
     public GameObject[] possibleDrops;   
     public float dropChance = 0.4f;      
 
-    // Private variables
     private Rigidbody2D rb;
     private Vector2 moveDirection;
+    private Vector3 lastPlayerPosition;
     private Direction16 currentDir = Direction16.S;
-    private float lastOctant = 8f;            // Default to South
+    private float lastOctant = 8f;
     private bool isAttacking = false;
     private float attackTimer = 0f;
     private bool isDead = false;
+    private bool playerMoved = false;
+    private float playerMovementThreshold = 0.1f;
 
     public enum Direction16 { E, ENE, NE, NNE, N, NNW, NW, WNW, W, WSW, SW, SSW, S, SSE, SE, ESE }
     public Direction16 CurrentDirection => currentDir;
@@ -70,7 +71,11 @@ public class EnemyController : MonoBehaviour
         {
             healthBarComponent.SetMaxHealth(maxHealth);
         }
-        
+
+        if (playerTarget != null)
+        {
+            lastPlayerPosition = playerTarget.position;
+        }
 
         SetAnimatorFromDirection(currentDir);
     }
@@ -83,49 +88,34 @@ public class EnemyController : MonoBehaviour
         {
             attackTimer -= Time.deltaTime;
         }
-        
 
         if (isAttacking) return;
         
         if (playerTarget != null)
         {
+            CheckPlayerMovement();
+            
             float distanceToPlayer = Vector2.Distance(transform.position, playerTarget.position);
             
-
-            if (distanceToPlayer <= detectionRadius)
+            if (distanceToPlayer <= attackRange && attackTimer <= 0)
             {
-
-                if (distanceToPlayer <= attackRange && attackTimer <= 0)
-                {
-                    StartCoroutine(AttackCoroutine());
-                }
-
-                else if (distanceToPlayer > attackRange)
-                {
-
-                    moveDirection = (playerTarget.position - transform.position).normalized;
-                    
-
-                    UpdateDirection(moveDirection);
-                }
-                else
-                {
-
-                    moveDirection = Vector2.zero;
-                }
+                StartCoroutine(AttackCoroutine());
+            }
+            else if (distanceToPlayer > stopDistance || playerMoved)
+            {
+                moveDirection = (playerTarget.position - transform.position).normalized;
+                UpdateDirection(moveDirection);
+                playerMoved = false;
             }
             else
             {
-
                 moveDirection = Vector2.zero;
             }
         }
         else
         {
-
             moveDirection = Vector2.zero;
         }
-        
 
         if (animator)
         {
@@ -133,9 +123,22 @@ public class EnemyController : MonoBehaviour
         }
     }
 
+    private void CheckPlayerMovement()
+    {
+        if (playerTarget != null)
+        {
+            float distanceMoved = Vector3.Distance(playerTarget.position, lastPlayerPosition);
+            
+            if (distanceMoved > playerMovementThreshold)
+            {
+                playerMoved = true;
+                lastPlayerPosition = playerTarget.position;
+            }
+        }
+    }
+
     private void LateUpdate()
     {
-
         if (animator)
         {
             animator.SetFloat("Octant", lastOctant);
@@ -148,8 +151,11 @@ public class EnemyController : MonoBehaviour
         {
             rb.linearVelocity = moveDirection * moveSpeed;
         }
+        else if (isAttacking)
+        {
+            rb.linearVelocity = Vector2.zero;
+        }
     }
-
 
     private void UpdateDirection(Vector2 direction)
     {
@@ -265,22 +271,26 @@ public class EnemyController : MonoBehaviour
     {
         isDead = true;
         rb.linearVelocity = Vector2.zero;
-    
+
+        EnemySpawner spawner = FindObjectOfType<EnemySpawner>();
+        if (spawner != null)
+        {
+            spawner.OnEnemyDied();
+        }
+
         TryDropItem();
-    
+
         if (animator)
         {
             animator.SetFloat("Octant", lastOctant);
-        
             animator.SetTrigger("Death");
         }
-    
+
         GetComponent<Collider2D>().enabled = false;
         rb.isKinematic = true;
-    
+
         Destroy(gameObject, 1f);
     }
-
 
     private void TryDropItem()
     {
@@ -288,13 +298,14 @@ public class EnemyController : MonoBehaviour
         {
             int itemIndex = Random.Range(0, possibleDrops.Length);
             GameObject selectedItem = possibleDrops[itemIndex];
-
-            Vector3 dropPosition = transform.position;
-            dropPosition.y += 0.2f; // Sliaght Y offset to avoid ground clipping
-
-            Instantiate(selectedItem, dropPosition, Quaternion.identity);
+            
+            if (selectedItem != null)  
+            {
+                Vector3 dropPosition = transform.position;
+                dropPosition.y += 0.2f;
+                Instantiate(selectedItem, dropPosition, Quaternion.identity);
+            }
         }
-
     }
 
     public void ForceOctantParameter()
@@ -307,10 +318,10 @@ public class EnemyController : MonoBehaviour
     
     private void OnDrawGizmosSelected()
     {
-        Gizmos.color = Color.yellow;
-        Gizmos.DrawWireSphere(transform.position, detectionRadius);
-        
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position, attackRange);
+        
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawWireSphere(transform.position, stopDistance);
     }
 }

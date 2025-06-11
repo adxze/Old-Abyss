@@ -102,7 +102,7 @@ CircleCollider2D:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
   m_ExcludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -139,7 +139,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemType: 4
   itemName: Item
-  value: 1
+  value: 10
+  magnetRange: 1
+  magnetSpeed: 8
+  autoMagnet: 0
   bobHeight: 0.5
   bobSpeed: 2
   rotate: 1
