@@ -1,3 +1,25 @@
+## Developer & Contributions
+
+- Adiguna S Ligawan (Game Developer & Systems Designer)
+  <br>
+
+## About
+
+Dark Abyss is a top-down dungeon crawler inspired by classic 90s action RPGs like Diablo. Navigate through dark catacombs filled with deadly traps and relentless enemies. Master real-time combat with strategic movement, collect powerful items, and upgrade your character to survive increasingly challenging encounters. Face terrifying bosses in atmospheric dungeons where every step could be your last.
+<br>
+
+## Key Features
+
+**Real-Time Combat System**: Fast-paced combat with attack combos, dodging, and blocking mechanics that reward skillful play and tactical positioning.
+
+** Enemy AI**:  state machine driven enemies that patrol, chase, and attacks, creating dynamic and unpredictable encounters.
+
+**Progressive Upgrade System**: Collect items and upgrades throughout your journey to enhance your character's abilities and survivability in the depths.
+
+**Atmospheric Dungeon Crawling**: Explore procedurally-enhanced catacombs with strategic lighting, environmental traps, and hidden secrets.
+
+<br>
+
 <table>
   <tr>
     <td align="left" width="50%">
@@ -253,27 +275,7 @@ classDiagram
 
 <br>
 
-## Developer & Contributions
 
-- Adiguna S Ligawan (Game Developer & Systems Designer)
-  <br>
-
-## About
-
-Dark Abyss is a top-down dungeon crawler inspired by classic 90s action RPGs like Diablo. Navigate through dark catacombs filled with deadly traps and relentless enemies. Master real-time combat with strategic movement, collect powerful items, and upgrade your character to survive increasingly challenging encounters. Face terrifying bosses in atmospheric dungeons where every step could be your last.
-<br>
-
-## Key Features
-
-**Real-Time Combat System**: Fast-paced combat with attack combos, dodging, and blocking mechanics that reward skillful play and tactical positioning.
-
-**Advanced Enemy AI**: Sophisticated state machine-driven enemies that patrol, chase, and coordinate attacks, creating dynamic and unpredictable encounters.
-
-**Progressive Upgrade System**: Collect items and upgrades throughout your journey to enhance your character's abilities and survivability in the depths.
-
-**Atmospheric Dungeon Crawling**: Explore procedurally-enhanced catacombs with strategic lighting, environmental traps, and hidden secrets.
-
-<br>
 
 
 ![Dark Abyss Demo](https://raw.githubusercontent.com/yourusername/dark-abyss/main/DarkAbyssSlide.png)
